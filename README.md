@@ -1,35 +1,35 @@
 # Dr. Fariborz Aref  
-### Sociologist  |  Data Scientist  |  Policy Researcher  
+### Sociologist  |  Data Scientist  |  Research Methodologist  
 
 📍 United States | 🌐 [fariborzaref.com](https://fariborzaref.com) | 📧 fariborz.aref@gmail.com  
 
 ---
 
 ### 🧭 Profile  
-I integrate **sociological theory** with **computational and statistical modeling** to examine how inequality evolves across economic, health, and labor systems.  
-My research bridges large-scale quantitative evidence with qualitative reasoning to inform **data-driven social policy** and evidence-based reform.
+I integrate **sociological theory** with **computational and quantitative research design** to explore how inequality evolves across social, economic, and health domains.  
+My academic work focuses on developing **mixed-methods frameworks** that transform complex data into insights guiding theory, teaching, and policy understanding.
 
 ---
 
 ### 🔬 Research & Technical Competence  
-- **Methodological Depth:** Generalized Estimating Equations (GEE) • Linear Mixed Models (LMM) • Confirmatory Factor & Structural Equation Modeling (CFA/SEM) • Panel Time-Series Models • Hierarchical Data Structures  
+- **Methodological Expertise:** Generalized Estimating Equations (GEE) • Linear Mixed Models (LMM) • Confirmatory Factor & Structural Equation Modeling (CFA/SEM) • Panel Time-Series Models • Multilevel & Longitudinal Analysis  
 - **Software & Computation:** R • Python • Stata • SPSS • SQL • LaTeX • Markdown • OJS • Git  
-- **Empirical Domains:** Global Inequality • Social Policy • Community Development • Mixed Methods
+- **Empirical Domains:** Global Inequality • Sociology of Development • Social Policy • Quantitative & Qualitative Integration  
 
 ---
 
 ### 🧩 Research Repositories  
 - [`R_GEE`](https://github.com/fariborzaref/R_GEE) – Population-average modeling for clustered social data  
-- [`LMM`](https://github.com/fariborzaref/LMM) – Random-effects models for cross-national inequality trajectories  
-- [`CFA_SEM`](https://github.com/fariborzaref/CFA_SEM) – Latent-structure analysis of income, health, and labor inequalities  
-- [`TSM`](https://github.com/fariborzaref/TSM) – Dynamic time-series and panel vector models for policy shock analysis  
-- [`Models`](https://github.com/fariborzaref/Models) – Integrated social model library linking micro-data to macro policy indicators  
+- [`LMM`](https://github.com/fariborzaref/LMM) – Random-effects modeling of cross-national inequality trajectories  
+- [`CFA_SEM`](https://github.com/fariborzaref/CFA_SEM) – Latent-structure modeling of income, health, and labor inequalities  
+- [`TSM`](https://github.com/fariborzaref/TSM) – Time-Series and Panel VAR analysis for comparative social research  
+- [`Models`](https://github.com/fariborzaref/Models) – Integrated library of advanced social science models  
 
 ---
 
 ### 🪶 Research Ethos  
-> “Rigor is the language of respect.  
-> Data are not numbers to process but structures of human experience to decode with precision.”  
+> “Rigor is empathy in structure.  
+> Each variable represents a life condition — my task is to translate it with precision.”  
 
 ---
 
