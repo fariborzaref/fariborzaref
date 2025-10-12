@@ -1,46 +1,51 @@
 # Dr. Fariborz Aref  
-### Sociologist | Data Scientist | Policy Researcher  
+### Sociologist  |  Data Scientist  |  Policy Researcher  
 
-📍 United Staes | 🌐 [fariborzaref.com](https://fariborzaref.com) | 📧 fariborz.aref@gmail.com  
-
----
-
-### 🧭 About  
-I work at the intersection of **sociology, data science, and policy analysis**, combining mixed-methods inquiry with advanced quantitative modeling.  
-My focus: transforming complex social data into evidence-based insights that drive equitable change.  
+📍 United States | 🌐 [fariborzaref.com](https://fariborzaref.com) | 📧 fariborz.aref@gmail.com  
 
 ---
 
-### 🔬 Research & Technical Focus  
-- **Statistical Modeling:** GEE, LMM, CFA/SEM, Multilevel & Longitudinal Analysis  
-- **Software Expertise:** R, Python, Stata, SPSS, SQL  
-- **Domains:** Social Policy • Global Inequality • Community Development 
+### 🧭 Profile  
+I integrate **sociological theory** with **computational and statistical modeling** to examine how inequality evolves across economic, health, and labor systems.  
+My research bridges large-scale quantitative evidence with qualitative reasoning to inform **data-driven social policy** and evidence-based reform.
 
 ---
 
-### 🧩 Selected Repositories  
-- [`R_GEE`](https://github.com/fariborzaref/R_GEE) – Generalized Estimating Equations  
-- [`LMM`](https://github.com/fariborzaref/LMM) – Linear Mixed Models  
-- [`CFA_SEM`](https://github.com/fariborzaref/CFA_SEM) – Confirmatory Factor & Structural Equation Modeling  
-- [`TSM`](https://github.com/fariborzaref/TSM) – Time-Series Modeling  
-- [`Models`](https://github.com/fariborzaref/Models) – Advanced Social Models Archive  
+### 🔬 Research & Technical Competence  
+- **Methodological Depth:** Generalized Estimating Equations (GEE) • Linear Mixed Models (LMM) • Confirmatory Factor & Structural Equation Modeling (CFA/SEM) • Panel Time-Series Models • Hierarchical Data Structures  
+- **Software & Computation:** R • Python • Stata • SPSS • SQL • LaTeX • Markdown • OJS • Git  
+- **Empirical Domains:** Global Inequality • Social Policy • Community Development • Mixed Methods
 
 ---
 
-### 🪶 Motto  
-> “Precision is respect.  
-> Every dataset tells a human story — my work is to listen.”  
+### 🧩 Research Repositories  
+- [`R_GEE`](https://github.com/fariborzaref/R_GEE) – Population-average modeling for clustered social data  
+- [`LMM`](https://github.com/fariborzaref/LMM) – Random-effects models for cross-national inequality trajectories  
+- [`CFA_SEM`](https://github.com/fariborzaref/CFA_SEM) – Latent-structure analysis of income, health, and labor inequalities  
+- [`TSM`](https://github.com/fariborzaref/TSM) – Dynamic time-series and panel vector models for policy shock analysis  
+- [`Models`](https://github.com/fariborzaref/Models) – Integrated social model library linking micro-data to macro policy indicators  
 
 ---
 
-#### ⚙️ Tools & Frameworks  
-R | Python | SPSS | Stata | SQL | LaTeX | Markdown | OJS | Git  
+### 🪶 Research Ethos  
+> “Rigor is the language of respect.  
+> Data are not numbers to process but structures of human experience to decode with precision.”  
 
 ---
 
-### 📊 GitHub Stats
-![Fariborz's GitHub stats](https://github-readme-stats.vercel.app/api?username=fariborzaref&show_icons=true&theme=transparent&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fariborzaref&layout=compact&theme=transparent&hide_border=true)
+### ⚙️ Analytical Frameworks  
+R | Python | Stata | SPSS | SQL | LaTeX | Markdown | OJS | Git  
 
 ---
+
+### 📊 GitHub Metrics  
+![Fariborz's GitHub stats](https://github-readme-stats.vercel.app/api?username=fariborzaref&show_icons=true&theme=transparent&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fariborzaref&layout=compact&theme=transparent&hide_border=true&v=2)
+
+---
+
+### 📘 Academic Signature  
+Ph.D. in Sociology | PhD in Community Development | M.A. in Survey Research | M.A. in Sociology  
+Committed to advancing empirical rigor in social science through reproducible methods and open data practices.
+
 
