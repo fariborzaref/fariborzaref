@@ -3,6 +3,7 @@
 <h1>Dr. Fariborz Aref</h1>
 <h3>Sociologist  |  Data Scientist  |  Research Methodologist</h3>
 📍 United States  |  🌐 <a href="https://fariborzaref.com">fariborzaref.com</a>  |  📧 <a href="mailto:fariborz.aref@gmail.com">fariborz.aref@gmail.com</a>
+
 <a href="https://orcid.org/0000-0001-6622-1824">
   <img alt="ORCID" src="https://img.shields.io/badge/ORCID-0000--0001--6622--1824-4caf50?logo=orcid&logoColor=white&labelColor=2e7d32&style=flat-square">
 </a>
