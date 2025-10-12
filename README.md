@@ -40,6 +40,7 @@ R | Python | SPSS | Stata | SQL | LaTeX | Markdown | OJS | Git
 
 ### 📊 GitHub Stats
 ![Fariborz's GitHub stats](https://github-readme-stats.vercel.app/api?username=fariborzaref&show_icons=true&theme=transparent&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fariborzaref&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
