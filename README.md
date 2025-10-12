@@ -1,7 +1,7 @@
 # Dr. Fariborz Aref  
 ### Sociologist | Data Scientist | Policy Researcher  
 
-📍 Houston, TX | 🌐 [fariborzaref.com](https://fariborzaref.com) | 📧 fariborz.aref@gmail.com  
+📍 United Staes | 🌐 [fariborzaref.com](https://fariborzaref.com) | 📧 fariborz.aref@gmail.com  
 
 ---
 
