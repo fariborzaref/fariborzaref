@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Dr. Fariborz Aref  
 
-<!--
-**fariborzaref/fariborzaref** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Sociologist & Data Scientist**  
+🔬 Specializing in **Mixed-Methods, GEE, LMM, CFA/SEM, and Social Policy Analysis**  
+🌍 Passionate about using data to understand global inequalities and social transformation.  
 
-Here are some ideas to get you started:
+🧠 **Research Interests:**  
+- Rehabilitation and community development  
+- Quantitative and qualitative integration  
+- Social data modeling and global policy analysis  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 **Repositories:**  
+`R_GEE` • `LMM` • `CFA_SEM` • `TSM` • `Models`
+
+🌐 [fariborzaref.com](https://fariborzaref.com)
