@@ -1,12 +1,24 @@
 <div align="center">
 
-# Dr. Fariborz Aref  
-### Sociologist  |  Data Scientist  |  Research Methodologist  
+<h1>Dr. Fariborz Aref</h1>
+<h3>Sociologist  |  Data Scientist  |  Research Methodologist</h3>
 
-📍 United States  |  🌐 [fariborzaref.com](https://fariborzaref.com)  |  📧 fariborz.aref@gmail.com  
+📍 United States  |  🌐 <a href="https://fariborzaref.com">fariborzaref.com</a>  |  📧 <a href="mailto:fariborz.aref@gmail.com">fariborz.aref@gmail.com</a>
+
+<a href="https://orcid.org/0000-0001-6622-1824">
+  <img alt="ORCID" src="https://img.shields.io/badge/ORCID-0000--0001--6622--1824-4caf50?logo=orcid&logoColor=white&labelColor=2e7d32&style=flat-square">
+</a>
+
+<br/><br/>
+
+<!-- Section quick-links (desktop & mobile friendly) -->
+<a href="#-profile">Profile</a> • 
+<a href="#-research--technical-competence">Methods</a> • 
+<a href="#-research-repositories">Repos</a> • 
+<a href="#-academic-background">Background</a> • 
+<a href="#-github-metrics">Metrics</a>
 
 </div>
-
 
 ---
 
@@ -21,29 +33,64 @@ My academic work focuses on developing *mixed-methods frameworks* that transform
 - **Software & Computation:** R • Python • Stata • SPSS • SQL • LaTeX • Markdown • OJS • Git  
 - **Empirical Domains:** Global Inequality • Sociology of Development • Social Policy • Quantitative & Qualitative Integration  
 
+<details>
+  <summary><b>Show concise toolchain detail</b></summary>
+
+- **R stacks:** geepack • lme4/lmerTest • lavaan/semTools • panelvar • ggplot2  
+- **Reproducibility:** project-oriented repos, README specs, session info, and saved artifacts  
+</details>
+
 ---
 
 ### 🧩 Research Repositories  
-- [`R_GEE`](https://github.com/fariborzaref/R_GEE) – Population-average modeling for clustered social data  
-- [`LMM`](https://github.com/fariborzaref/LMM) – Random-effects modeling of cross-national inequality trajectories  
-- [`CFA_SEM`](https://github.com/fariborzaref/CFA_SEM) – Latent-structure modeling of income, health, and labor inequalities  
-- [`TSM`](https://github.com/fariborzaref/TSM) – Time-Series and Panel VAR analysis for comparative social research  
-- [`Models`](https://github.com/fariborzaref/Models) – Integrated library of advanced social science models  
+
+<table>
+  <tr>
+    <td>
+      <b><a href="https://github.com/fariborzaref/R_GEE">R_GEE</a></b><br/>
+      Population-average modeling for clustered social data (GEE)
+    </td>
+    <td>
+      <b><a href="https://github.com/fariborzaref/LMM">LMM</a></b><br/>
+      Random-effects modeling of cross-national inequality trajectories
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b><a href="https://github.com/fariborzaref/CFA_SEM">CFA_SEM</a></b><br/>
+      Latent-structure modeling of income, health, and labor inequalities
+    </td>
+    <td>
+      <b><a href="https://github.com/fariborzaref/TSM">TSM</a></b><br/>
+      Time-Series & Panel VAR analysis for comparative social research
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b><a href="https://github.com/fariborzaref/Models">Models</a></b><br/>
+      Integrated library of advanced social science models
+    </td>
+    <td>
+      <b><a href="https://github.com/fariborzaref/GEE_Plot">GEE_Plot</a></b><br/>
+      Publication-grade plots & diagnostics for geeglm
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🪶 Research Ethos  
 > “Rigor is empathy in structure.  
-> Each variable represents a life condition — my task is to translate it with precision.”  
+> Each variable represents a life condition — my task is to translate it with precision.”
 
 ---
 
 ### ⚙️ Analytical Frameworks  
-R | Python | Stata | SPSS | SQL | LaTeX | Markdown | OJS | Git  
+R | Python | Stata | SPSS | SQL | LaTeX | Markdown | OJS | Git
 
 ---
 
-### 🎓  Academic Background 
+### 🎓  Academic Background  
 **Ph.D. (Sociology)** · **Ph.D. (Community Development)**  
 **M.A. (Survey Research)** · **M.A. (Sociology)**  
 **B.A. (Social Sciences)** · **A.D. (Education)**  
@@ -51,11 +98,12 @@ R | Python | Stata | SPSS | SQL | LaTeX | Markdown | OJS | Git
 **Committed to advancing empirical rigor in social science through reproducible methods and open data practices.**
 
 ---
-### 📊 GitHub Metrics  
-![Fariborz's GitHub stats](https://github-readme-stats.vercel.app/api?username=fariborzaref&show_icons=true&theme=transparent&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fariborzaref&layout=compact&theme=transparent&hide_border=true&v=2)  
 
-**Academic Identifier:** [ORCID 0000-0001-6622-1824](https://orcid.org/0000-0001-6622-1824)
+### 📊 GitHub Metrics  
+<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=fariborzaref&show_icons=true&theme=transparent&hide_border=true">
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fariborzaref&layout=compact&theme=transparent&hide_border=true&v=2">
+
+**Academic Identifier:** <a href="https://orcid.org/0000-0001-6622-1824">ORCID 0000-0001-6622-1824</a>
 
 
 
