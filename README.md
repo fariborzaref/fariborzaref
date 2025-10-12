@@ -1,7 +1,12 @@
+<div align="center">
+
 # Dr. Fariborz Aref  
 ### Sociologist  |  Data Scientist  |  Research Methodologist  
 
-📍 United States | 🌐 [fariborzaref.com](https://fariborzaref.com) | 📧 fariborz.aref@gmail.com  
+📍 United States  |  🌐 [fariborzaref.com](https://fariborzaref.com)  |  📧 fariborz.aref@gmail.com  
+
+</div>
+
 
 ---
 
