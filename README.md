@@ -43,12 +43,8 @@ R | Python | Stata | SPSS | SQL | LaTeX | Markdown | OJS | Git
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fariborzaref&layout=compact&theme=transparent&hide_border=true&v=2)
 
 ---
-
-### 📘 Academic Signature  
 ### 🎓 Academic Signature  
 **Ph.D. (Sociology)** · **Ph.D. (Community Development)**  
 **M.A. (Survey Research)** · **M.A. (Sociology)**  
 **B.A. (Social Sciences)** · **A.D. (Education)**  
 Committed to advancing empirical rigor in social science through reproducible methods and open data practices.
-
-
