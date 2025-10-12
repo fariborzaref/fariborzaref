@@ -14,7 +14,7 @@ My focus: transforming complex social data into evidence-based insights that dri
 ### 🔬 Research & Technical Focus  
 - **Statistical Modeling:** GEE, LMM, CFA/SEM, Multilevel & Longitudinal Analysis  
 - **Software Expertise:** R, Python, Stata, SPSS, SQL  
-- **Domains:** Rehabilitation Policy • Global Inequality • Community Development • Social Impact Metrics  
+- **Domains:** Social Policy • Global Inequality • Community Development 
 
 ---
 
