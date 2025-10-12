@@ -14,11 +14,11 @@
 <br/><br/>
 
 <!-- Section quick-links (desktop & mobile friendly) -->
-<a href="#-profile">🧭 Profile</a> • 
-<a href="#-research--technical-competence">🔬 Methods</a> • 
-<a href="#-research-repositories">🧩 Repos</a> • 
-<a href="#-academic-background">🎓 Background</a> • 
-<a href="#-github-metrics">📊 Metrics</a>
+<a href="#-profile">Profile</a> • 
+<a href="#-research--technical-competence">Methods</a> • 
+<a href="#-research-repositories">Repos</a> • 
+<a href="#-academic-background">Background</a> • 
+<a href="#-github-metrics">Metrics</a>
 
 </div>
 
