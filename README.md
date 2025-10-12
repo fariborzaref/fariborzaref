@@ -6,8 +6,8 @@
 ---
 
 ### 🧭 Profile  
-I integrate sociological theory with computational and quantitative research design to explore how inequality evolves across social, economic, and health domains.  
-My academic work focuses on developing *mixed-methods frameworks that transform complex data into insights guiding theory, teaching, and policy understanding.
+I integrate **sociological theory** with **computational and quantitative research design** to examine how inequality evolves across social, economic, and health domains.  
+My academic work focuses on developing *mixed-methods frameworks* that transform complex data into insights guiding theory, teaching, and institutional decision-making.
 
 ---
 
@@ -38,13 +38,17 @@ R | Python | Stata | SPSS | SQL | LaTeX | Markdown | OJS | Git
 
 ---
 
-### 📊 GitHub Metrics  
-![Fariborz's GitHub stats](https://github-readme-stats.vercel.app/api?username=fariborzaref&show_icons=true&theme=transparent&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fariborzaref&layout=compact&theme=transparent&hide_border=true&v=2)
-
----
 ### 🎓 Academic Signature  
 **Ph.D. (Sociology)** · **Ph.D. (Community Development)**  
 **M.A. (Survey Research)** · **M.A. (Sociology)**  
 **B.A. (Social Sciences)** · **A.D. (Education)**  
+
 **Committed to advancing empirical rigor in social science through reproducible methods and open data practices.**
+
+---
+
+### 📊 GitHub Metrics  
+![Fariborz's GitHub stats](https://github-readme-stats.vercel.app/api?username=fariborzaref&show_icons=true&theme=transparent&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fariborzaref&layout=compact&theme=transparent&hide_border=true&v=2)  
+![Profile Views](https://komarev.com/ghpvc/?username=fariborzaref&color=gray&style=flat-square)  
+
