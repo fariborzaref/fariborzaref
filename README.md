@@ -6,8 +6,8 @@
 ---
 
 ### 🧭 Profile  
-I integrate **sociological theory** with **computational and quantitative research design** to explore how inequality evolves across social, economic, and health domains.  
-My academic work focuses on developing **mixed-methods frameworks** that transform complex data into insights guiding theory, teaching, and policy understanding.
+I integrate **sociological theory with computational and quantitative research design to explore how inequality evolves across social, economic, and health domains.  
+My academic work focuses on developing *mixed-methods frameworks that transform complex data into insights guiding theory, teaching, and policy understanding.
 
 ---
 
