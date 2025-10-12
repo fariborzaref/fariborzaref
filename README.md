@@ -46,9 +46,11 @@ R | Python | Stata | SPSS | SQL | LaTeX | Markdown | OJS | Git
 **Committed to advancing empirical rigor in social science through reproducible methods and open data practices.**
 
 ---
-
 ### 📊 GitHub Metrics  
 ![Fariborz's GitHub stats](https://github-readme-stats.vercel.app/api?username=fariborzaref&show_icons=true&theme=transparent&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fariborzaref&layout=compact&theme=transparent&hide_border=true&v=2)  
-![Profile Views](https://komarev.com/ghpvc/?username=fariborzaref&color=gray&style=flat-square)  
+
+**Academic Identifier:** [ORCID 0000-0001-6622-1824](https://orcid.org/0000-0001-6622-1824)
+
+
 
