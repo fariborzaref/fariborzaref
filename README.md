@@ -2,22 +2,28 @@
 
 <h1>Dr. Fariborz Aref</h1>
 <h3>Sociologist  |  Data Scientist  |  Research Methodologist</h3>
-📍 United States  |  🌐 <a href="https://fariborzaref.com">fariborzaref.com</a>  |  📧 <a href="mailto:fariborz.aref@gmail.com">fariborz.aref@gmail.com</a>
+
+📍 United States  |  🌐 <a href="https://fariborzaref.com">fariborzaref.com</a>  |  📧 <a href="mailto:fariborz.aref@gmail.com">fariborz.aref@gmail.com</a>  
+
+<br/>
 
 <a href="https://orcid.org/0000-0001-6622-1824">
   <img alt="ORCID" src="https://img.shields.io/badge/ORCID-0000--0001--6622--1824-4caf50?logo=orcid&logoColor=white&labelColor=2e7d32&style=flat-square">
 </a>
+
 <br/><br/>
+
 <!-- Section quick-links (desktop & mobile friendly) -->
-<a href="#-profile">Profile</a> • 
-<a href="#-research--technical-competence">Methods</a> • 
-<a href="#-research-repositories">Repos</a> • 
-<a href="#-academic-background">Background</a> • 
-<a href="#-github-metrics">Metrics</a>
+<a href="#-profile">🧭 Profile</a> • 
+<a href="#-research--technical-competence">🔬 Methods</a> • 
+<a href="#-research-repositories">🧩 Repos</a> • 
+<a href="#-academic-background">🎓 Background</a> • 
+<a href="#-github-metrics">📊 Metrics</a>
 
 </div>
 
 ---
+
 
 ### 🧭 Profile  
 I integrate **sociological theory** with **computational and quantitative research design** to examine how inequality evolves across social, economic, and health domains.  
