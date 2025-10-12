@@ -47,4 +47,4 @@ R | Python | Stata | SPSS | SQL | LaTeX | Markdown | OJS | Git
 **Ph.D. (Sociology)** · **Ph.D. (Community Development)**  
 **M.A. (Survey Research)** · **M.A. (Sociology)**  
 **B.A. (Social Sciences)** · **A.D. (Education)**  
-Committed to advancing empirical rigor in social science through reproducible methods and open data practices.
+**Committed to advancing empirical rigor in social science through reproducible methods and open data practices.**
