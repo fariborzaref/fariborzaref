@@ -94,11 +94,9 @@ R | Python | Stata | SPSS | SQL | LaTeX | Markdown | OJS | Git
 **Committed to advancing empirical rigor in social science through reproducible methods and open data practices.**
 
 ---
-
 ### 📊 GitHub Metrics  
 <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=fariborzaref&show_icons=true&theme=transparent&hide_border=true">
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fariborzaref&layout=compact&theme=transparent&hide_border=true&v=2">
-
 **Academic Identifier:** <a href="https://orcid.org/0000-0001-6622-1824">ORCID 0000-0001-6622-1824</a>
 
 
