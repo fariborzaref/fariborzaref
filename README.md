@@ -2,7 +2,6 @@
 
 <h1>Dr. Fariborz Aref</h1>
 <h3>Sociologist  |  Data Scientist  |  Research Methodologist</h3>
-
 📍 United States  |  🌐 <a href="https://fariborzaref.com">fariborzaref.com</a>  |  📧 <a href="mailto:fariborz.aref@gmail.com">fariborz.aref@gmail.com</a>  
 
 <br/>
