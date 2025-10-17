@@ -97,8 +97,6 @@ R | Python | Stata | SPSS | SQL | LaTeX | Markdown | OJS | Git
 **Ph.D. (Sociology)** · **Ph.D. (Community Development)**  
 **M.A. (Survey Research)** · **M.A. (Sociology)** 
 
-**Committed to advancing empirical rigor in social science through reproducible methods and open data practices.**
-
 ---
 ### 📊 GitHub Metrics  
 <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=fariborzaref&show_icons=true&theme=transparent&hide_border=true">
