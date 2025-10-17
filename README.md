@@ -1,4 +1,4 @@
-<div align="center">
+I'm<div align="center">
 
 <h1>Dr. Fariborz Aref</h1>
 <h3>Sociologist  |  Data Scientist  |  Research Methodologist</h3>
@@ -95,8 +95,7 @@ R | Python | Stata | SPSS | SQL | LaTeX | Markdown | OJS | Git
 
 ### 🎓  Academic Background  
 **Ph.D. (Sociology)** · **Ph.D. (Community Development)**  
-**M.A. (Survey Research)** · **M.A. (Sociology)**  
-**B.A. (Social Sciences)** · **A.D. (Education)**  
+**M.A. (Survey Research)** · **M.A. (Sociology)** 
 
 **Committed to advancing empirical rigor in social science through reproducible methods and open data practices.**
 
