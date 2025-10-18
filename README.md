@@ -1,5 +1,3 @@
-I'm<div align="center">
-
 <h1>Dr. Fariborz Aref</h1>
 <h3>Sociologist  |  Data Scientist  |  Research Methodologist</h3>
 
