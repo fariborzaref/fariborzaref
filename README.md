@@ -33,7 +33,7 @@ My research turns complex datasets into transparent, reproducible evidence that 
 ### 🔬 Research & Technical Competence  
 - **Methodological Expertise:** Generalized Estimating Equations (GEE) • Linear Mixed Models (LMM) • Confirmatory Factor & Structural Equation Modeling (CFA/SEM) • Panel Time-Series Models • Multilevel & Longitudinal Analysis  
 - **Software & Computation:** R • Python • Stata • SPSS • SQL • LaTeX • Markdown • OJS • Git  
-- **Empirical Domains:** Global Inequality • Social Change • Social Policy • Quantitative & Qualitative Integration  
+- **Empirical Domains:** Global Inequality • Social Change • Social Policy • Computational Sociology • Quantitative & Qualitative Integration  
 
 <details>
 <summary><b>Show concise toolchain detail</b></summary>
