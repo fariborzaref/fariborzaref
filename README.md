@@ -24,7 +24,7 @@
 
 ---
 
-### 🧭 Profile  
+### Profile  
 I study how social inequality evolves within and across societies by combining **sociological theory**, **computational modeling**, and **empirical rigor**.  
 My research turns complex datasets into transparent, reproducible evidence that informs theory, education, and policy design.  
 
