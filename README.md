@@ -30,7 +30,7 @@ My research turns complex datasets into transparent, reproducible evidence that 
 
 ---
 
-### 🔬 Research & Technical Competence  
+### Research & Technical Competence  
 - **Methodological Expertise:** Generalized Estimating Equations (GEE) • Linear Mixed Models (LMM) • Confirmatory Factor & Structural Equation Modeling (CFA/SEM) • Panel Time-Series Models • Multilevel & Longitudinal Analysis  
 - **Software & Computation:** R • Python • Stata • SPSS • SQL • LaTeX • Markdown • OJS • Git  
 - **Empirical Domains:** Global Inequality • Social Change • Social Policy • Computational Sociology • Quantitative & Qualitative Integration  
@@ -44,7 +44,7 @@ My research turns complex datasets into transparent, reproducible evidence that 
 
 ---
 
-### 🧩 Research Repositories  
+### Research Repositories  
 
 <table>
 <tr>
@@ -81,13 +81,13 @@ Publication-grade plots & diagnostics for geeglm
 
 ---
 
-### 🪶 Research Ethos  
+### Research Ethos  
 > “Rigor is empathy in structure.   
 > Each variable represents a life condition — my task is to translate it with precision.”
 
 ---
 
-### ⚙️ Analytical Frameworks  
+### Analytical Frameworks  
 R | Python | Stata | SPSS | SQL | LaTeX | Markdown | OJS | Git  
 
 ---
