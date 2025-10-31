@@ -92,12 +92,6 @@ R | Python | Stata | SPSS | SQL | LaTeX | Markdown | OJS | Git
 
 ---
 
-### 🎓 Academic Background  
-**Ph.D. (Sociology)** · **Ph.D. (Community Development)**  
-**M.A. (Survey Research)** · **M.A. (Sociology)**  
-
----
-
 ### 📊 GitHub Metrics  
 <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=fariborzaref&show_icons=true&theme=transparent&hide_border=true"><br/>
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fariborzaref&layout=compact&theme=transparent&hide_border=true&v=2">
