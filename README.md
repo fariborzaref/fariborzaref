@@ -142,7 +142,7 @@ Each analysis is designed for transparency and replication — from raw data to 
 <hr/>
 
 <p align="center">
-  <i>Computational sociology begins with structure and ends with understanding. The code only matters if the insight holds.</i>
+  <i>Rigor is empathy in structure. Each variable represents a life condition. My work translates that reality with care and precision.</i>
 </p>
 
 
