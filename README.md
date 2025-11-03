@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Dr. Fariborz Aref</h1>
-  <h3>Sociologist  |  Research Methodologist  |  Computational Social Science</h3>
+  <h3>Sociologist  |  Research Methodologist </h3>
 
   United States   |   
   🌐 <a href="https://fariborzaref.com">fariborzaref.com</a>   |   
