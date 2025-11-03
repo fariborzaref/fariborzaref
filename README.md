@@ -35,7 +35,7 @@
 <p>
 I study how inequality develops across societies through data and institutional analysis.  
 My work connects sociological theory with computational tools, using cross-national datasets to understand how education, labor, and policy interact over time.  
-Every dataset is treated as a record of real human experience — the goal is clarity, not noise.
+
 </p>
 
 <hr/>
