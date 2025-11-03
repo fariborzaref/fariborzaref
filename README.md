@@ -1,9 +1,9 @@
 <div align="center">
 
 <h1>Dr. Fariborz Aref</h1>
-<h3>Sociologist  |  Research Methodologist</h3>
+<h3>Sociologist | Computational Methods | Research Methodologist</h3>
 
-United States   |   🌐 <a href="https://fariborzaref.com">fariborzaref.com</a>   |   📧 <a href="mailto:fariborz.aref@gmail.com">fariborz.aref@gmail.com</a>  
+United States  |  🌐 <a href="https://fariborzaref.com">fariborzaref.com</a>  |  📧 <a href="mailto:fariborz.aref@gmail.com">fariborz.aref@gmail.com</a>
 
 <br/>
 
@@ -13,89 +13,95 @@ United States   |   🌐 <a href="https://fariborzaref.com">fariborzaref.com</a>
 
 <br/><br/>
 
-<!-- Section quick-links -->
-<a href="#-profile">Profile</a> • 
-<a href="#-research--technical-competence">Methods</a> • 
-<a href="#-research-repositories">Repos</a> • 
-<a href="#-academic-background">Background</a> • 
-<a href="#-github-metrics">Metrics</a>
+<a href="#profile">Profile</a> •
+<a href="#methods">Methods</a> •
+<a href="#featured-repositories">Featured Repositories</a> •
+<a href="#reproducibility">Reproducibility</a> •
+<a href="#background">Background</a> •
+<a href="#metrics">Metrics</a>
 
 </div>
 
----
+<hr/>
 
-### Profile  
-I study how social inequality evolves within and across societies by combining **sociological theory**, **computational modeling**, and **empirical rigor**.  
-My research turns complex datasets into transparent, reproducible evidence that informs theory, education, and policy design.  
+<h3 id="profile">Profile</h3>
+<p>
+I study how inequality evolves within and across societies by combining sociological theory, computational modeling, and careful empirical design.  
+My work turns complex data into transparent, replicable evidence that informs theory, teaching, and policy.
+</p>
 
----
+<hr/>
 
-### Research & Technical Competence  
-- **Methodological Expertise:** Generalized Estimating Equations (GEE) • Linear Mixed Models (LMM) • Confirmatory Factor & Structural Equation Modeling (CFA/SEM) • Panel Time-Series Models • Multilevel & Longitudinal Analysis  
-- **Software & Computation:** R • Python • Stata • SPSS • SQL • LaTeX • Markdown • OJS • Git  
-- **Empirical Domains:** Global Inequality • Social Change • Social Policy • Computational Sociology • Quantitative & Qualitative Integration  
+<h3 id="methods">Methods</h3>
+
+<b>Analytical toolkit</b><br/>
+• Generalized Estimating Equations  • Linear Mixed Models  • Panel Time Series  • Multilevel and Longitudinal Analysis  • Confirmatory Factor and Structural Equation Modeling
+
+<b>Software and computation</b><br/>
+• R  • Python  • Stata  • SPSS  • SQL  • LaTeX  • Markdown  • OJS  • Git
+
+<b>Substantive domains</b><br/>
+• Global inequality  • Social policy  • Education and labor markets  • Computational sociology  • Quantitative and qualitative integration
 
 <details>
-<summary><b>Show concise toolchain detail</b></summary>
-
-- **R Stacks:** geepack • lme4/lmerTest • lavaan/semTools • panelvar • ggplot2  
-- **Reproducibility:** Project-oriented repositories with session info and saved artifacts for complete replication  
+<summary><b>Toolchain details</b></summary>
+<br/>
+<b>R stacks</b><br/>
+geepack • lme4 • lmerTest • lavaan • semTools • panelvar • fixest • data.table • ggplot2<br/><br/>
+<b>Reproducibility</b><br/>
+Project oriented repos with session info, version pins, and saved artifacts for full replication.
 </details>
 
----
+<hr/>
 
-### Research Repositories  
+<h3 id="featured-repositories">Featured Repositories</h3>
 
 <table>
 <tr>
-<td>
+<td width="50%" valign="top">
 <b><a href="https://github.com/fariborzaref/R_GEE">R_GEE</a></b><br/>
-Population-average modeling for clustered social data (GEE)
+Population average models for clustered social data using GEE. Includes diagnostics, robust SEs, and example notebooks.
 </td>
-<td>
+<td width="50%" valign="top">
 <b><a href="https://github.com/fariborzaref/LMM">LMM</a></b><br/>
-Random-effects modeling of cross-national inequality trajectories
+Random effects models for cross national inequality trajectories with tidy pipelines and visual checks.
 </td>
 </tr>
 <tr>
-<td>
+<td width="50%" valign="top">
 <b><a href="https://github.com/fariborzaref/CFA_SEM">CFA_SEM</a></b><br/>
-Latent-structure modeling of income, health, and labor inequalities
+Latent structure modeling for income, health, and labor outcomes with lavaan templates and fit audit helpers.
 </td>
-<td>
+<td width="50%" valign="top">
 <b><a href="https://github.com/fariborzaref/TSM">TSM</a></b><br/>
-Time-Series & Panel VAR analysis for comparative social research
+Time series and panel VAR utilities for comparative social research, shock response, and stability analysis.
 </td>
 </tr>
 <tr>
-<td>
+<td width="50%" valign="top">
 <b><a href="https://github.com/fariborzaref/Models">Models</a></b><br/>
-Integrated library of advanced social-science models
+A compact library of advanced social science model patterns with minimal reproducible examples.
 </td>
-<td>
+<td width="50%" valign="top">
 <b><a href="https://github.com/fariborzaref/GEE_Plot">GEE_Plot</a></b><br/>
-Publication-grade plots & diagnostics for geeglm
+Publication grade plots and diagnostics for geeglm outputs with clean defaults.
 </td>
 </tr>
 </table>
 
----
+<hr/>
 
-### Research Ethos  
-> “Rigor is empathy in structure.   
-> Each variable represents a life condition — my task is to translate it with precision.”
+<h3 id="reproducibility">Reproducibility</h3>
 
----
+<p><b>Minimal quick start in R</b></p>
 
-### Analytical Frameworks  
-R | Python | Stata | SPSS | SQL | LaTeX | Markdown | OJS | Git  
-
----
-
-### 📊 GitHub Metrics  
-<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=fariborzaref&show_icons=true&theme=transparent&hide_border=true"><br/>
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fariborzaref&layout=compact&theme=transparent&hide_border=true&v=2">
-
+```r
+# clone one of the repos, then inside the project:
+pkgs <- c("geepack","lme4","lmerTest","lavaan","semTools","panelvar","fixest","data.table","ggplot2")
+to_install <- setdiff(pkgs, rownames(installed.packages()))
+if (length(to_install)) install.packages(to_install)
+source("scripts/00_setup.R")
+rmarkdown::render("analysis/01_demo.Rmd")
 
 
 
