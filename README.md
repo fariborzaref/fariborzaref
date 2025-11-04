@@ -10,9 +10,6 @@
   <a href="https://orcid.org/0000-0001-6622-1824">
     <img alt="ORCID" src="https://img.shields.io/badge/ORCID-0000--0001--6622--1824-4caf50?logo=orcid&logoColor=white&labelColor=2e7d32&style=flat-square">
   </a>
-  <a href="https://www.semanticscholar.org/author/Fariborz-Aref/XXXX">
-    <img alt="Semantic Scholar" src="https://img.shields.io/badge/Semantic%20Scholar-Author-111827?logo=semanticscholar&logoColor=white&style=flat-square">
-  </a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=fariborzaref&style=flat-square&label=Profile%20views">
 
   <br/><br/>
