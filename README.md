@@ -148,7 +148,7 @@
   <ul>
     <li><b>PhD</b>, Sociology</li>
     <li><b>PhD</b>, Community Development</li>
-    <li><b>MA</b>, Survey Research and Public Policy</li>
+    <li><b>MA</b>, Survey Research in Public Policy</li>
     <li><b>MA</b>, Sociology</li>
   </ul>
 </section>
