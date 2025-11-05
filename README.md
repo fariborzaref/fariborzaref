@@ -143,10 +143,11 @@
 
 <hr/>
 <section id="education">
+<section id="education">
   <h3>Education</h3>
   <p>
-    <b>PhD</b> Sociology&nbsp; |&nbsp; <b>PhD</b> Community Development&nbsp; |&nbsp; 
-    <b>MA</b> Survey Research in Public Policy&nbsp; |&nbsp; <b>MA</b> Sociology
+    <b>PhD</b> Sociology (OU) | <b>PhD</b> Community Development (UPM) | 
+    <b>MA</b> Survey Research in Public Policy (UConn) | <b>MA</b> Sociology (DU)
   </p>
 </section>
 
