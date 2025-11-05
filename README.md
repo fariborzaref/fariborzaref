@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1 id="top">Dr. Fariborz Aref</h1>
-  <h3>Sociologist | Mixed-Methods & Computational Researcher</h3>
+  <h3>Sociologist | Computational & Mixed-Methods Research</h3>
 
   United States · 🌐 <a href="https://fariborzaref.com">fariborzaref.com</a> · 📧 <a href="mailto:fariborz.aref@gmail.com">fariborz.aref@gmail.com</a>
   <br/><br/>
