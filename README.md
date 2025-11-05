@@ -149,4 +149,4 @@
   </ul>
 </section>
 <p align="right"><a href="#top">Back to top ↑</a></p>
-<li><i>Rigor is empathy in structure. Each variable represents a life condition — my task is to translate it with precision.</li>
+<li><i>Rigor is empathy in structure. Each variable represents a life condition, my task is to translate it with precision.</li>
