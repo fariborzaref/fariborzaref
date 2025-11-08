@@ -107,12 +107,25 @@
 <section id="publications">
   <h3>Selected Publications</h3>
   <ul>
-    <li><i>Comparative Sociology</i>: Welfare regimes and recovery after the Great Recession</li>
-    <li><i>International Review of Economics</i>: Political trust, welfare systems, and inequality</li>
-    <li><i>Rehabilitation Research, Policy, and Education</i>: Institutional barriers and faculty research productivity</li>
+    <li>
+      <i>Comparative Sociology</i>: 
+      From Recession to Pandemic – Evolving Inequalities in OECD Countries through a Two-Decade Analysis of Socio-Economic Impacts. 
+      <a href="https://doi.org/10.1163/15691330-bja10103" target="_blank">https://doi.org/10.1163/15691330-bja10103</a>
+    </li>
+    <li>
+      <i>International Review of Economics</i>: 
+      Analyzing inequalities: A multifaceted perspective of OECD welfare regimes during the Great Recession and the Pandemic. 
+      <a href="https://doi.org/10.1007/s12232-024-00448-9" target="_blank">https://doi.org/10.1007/s12232-024-00448-9</a>
+    </li>
+    <li>
+      <i>Rehabilitation Research, Policy, and Education</i>: 
+      Research Productivity in Rehabilitation, Disability, and Allied Health Programs. 
+      <a href="https://doi.org/10.1891/2168-6653.31.3.194" target="_blank">https://doi.org/10.1891/2168-6653.31.3.194</a>
+    </li>
   </ul>
-  <p>Full list: <a href="https://scholar.google.com/citations?user=XXXX">Google Scholar</a></p>
+  <p>Full list: <a href="https://scholar.google.com/citations?user=XXXX" target="_blank">Google Scholar</a></p>
 </section>
+
 
 <hr/>
 
