@@ -10,7 +10,7 @@
   <a href="https://orcid.org/0000-0001-6622-1824">
     <img alt="ORCID" src="https://img.shields.io/badge/ORCID-0000--0001--6622--1824-4caf50?logo=orcid&logoColor=white&style=flat">
   </a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=fariborzaref&style=flat&label=Profile%20views">
+  <img alt="Profile" src="https://komarev.com/ghpvc/?username=fariborzaref&style=flat&label=Profile%20views">
   <img alt="License" src="https://img.shields.io/badge/Code-Open%20Source-blue?style=flat">
 
   <br/><br/>
