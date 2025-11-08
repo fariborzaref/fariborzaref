@@ -114,7 +114,7 @@
     </li>
     <li>
       <i>International Review of Economics</i>: 
-      Analyzing inequalities: A multifaceted perspective of OECD welfare regimes during the Great Recession and the Pandemic. 
+      Analyzing Inequalities – A Multifaceted Perspective of OECD Welfare Regimes during the Great Recession and the Pandemic. 
       <a href="https://doi.org/10.1007/s12232-024-00448-9" target="_blank">https://doi.org/10.1007/s12232-024-00448-9</a>
     </li>
     <li>
@@ -123,7 +123,6 @@
       <a href="https://doi.org/10.1891/2168-6653.31.3.194" target="_blank">https://doi.org/10.1891/2168-6653.31.3.194</a>
     </li>
   </ul>
-  <p>Full list: <a href="https://scholar.google.com/citations?user=XXXX" target="_blank">Google Scholar</a></p>
 </section>
 
 
