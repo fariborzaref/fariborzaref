@@ -31,7 +31,7 @@
 <section id="profile">
   <h3>Profile</h3>
   <p>
-    I study how inequality develops across societies using data and institutional analysis. My work links sociological theory with computational tools to examine how education, labor, and policy interact over time.
+    I study how inequality takes shape within societies by integrating sociological theory and computational methods. My research traces how institutions, especially education, labor, and policy, interlock to produce or reduce inequality over time.
   </p>
 </section>
 
