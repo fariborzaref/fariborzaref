@@ -115,12 +115,7 @@
 </section>
 
 <hr/>
-  <h3>Education</h3>
-  <p>
-    <b>PhD</b> Sociology (OU) | <b>PhD</b> Community Development (UPM) | 
-    <b>MA</b> Survey Research in Public Policy (UConn) | <b>MA</b> Sociology (DU)
-  </p>
-</section>
+
 <section id="teaching">
   <h3>Teaching and Open Materials</h3>
   <ul>
@@ -131,7 +126,13 @@
 </section>
 
 <hr/>
-
+  <h3>Education</h3>
+  <p>
+    <b>PhD</b> Sociology (OU) | <b>PhD</b> Community Development (UPM) | 
+    <b>MA</b> Survey Research in Public Policy (UConn) | <b>MA</b> Sociology (DU)
+  </p>
+</section>
+<hr/>
 <section id="metrics">
   <h3>Metrics</h3>
   <p>
