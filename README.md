@@ -83,7 +83,7 @@
     </tr>
     <tr>
 <td>
-  <b><a href="https://github.com/fariborzaref/Text-Network" target="_blank">Text_Network</a></b><br/>
+  <b><a href="https://github.com/fariborzaref/Text-Network-" target="_blank">Text_Network</a></b><br/>
   Text and network analysis of institutional discourse
 </td>
       <td>
