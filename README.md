@@ -82,10 +82,10 @@
       </td>
     </tr>
     <tr>
-      <td>
-        <b><a href="[https://github.com/fariborzaref/Text_Network](https://github.com/fariborzaref/Text-Network">Text_Network</a></b><br/>
-        Text and network analysis of institutional discourse
-      </td>
+<td>
+  <b><a href="https://github.com/fariborzaref/Text-Network" target="_blank">Text_Network</a></b><br/>
+  Text and network analysis of institutional discourse
+</td>
       <td>
         <b><a href="https://github.com/fariborzaref/Models">Models</a></b><br/>
         Computational models for policy and inequality research
