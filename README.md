@@ -148,14 +148,6 @@
 </section>
 
 <hr/>
-<section id="education">
-<section id="education">
-  <h3>Education</h3>
-  <p>
-    <b>PhD</b> Sociology (OU) | <b>PhD</b> Community Development (UPM) | 
-    <b>MA</b> Survey Research in Public Policy (UConn) | <b>MA</b> Sociology (DU)
-  </p>
-</section>
 
 <p align="right"><a href="#top">Back to top ↑</a></p>
 <li><i>Rigor is empathy in structure. Each variable represents a life condition, my task is to translate it with precision.</li>
