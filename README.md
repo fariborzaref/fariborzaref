@@ -130,10 +130,15 @@
 
 <section id="teaching">
   <h3>Teaching and Open Materials</h3>
+  <p>
+    My approach to teaching is deeply influenced by my own academic formation. 
+    Earning two PhDs—in Sociology and Community Development—and two master’s degrees in Sociology and Survey Research in Public Policy shaped a way of teaching that connects empirical evidence with institutional reality. 
+    I aim to help students think critically about how structures of education, labor, and policy shape inequality and opportunity in everyday life.
+  </p>
   <ul>
-    <li>Courses: Research Methods · Social Statistics · Computational Sociology · Demography · Social Inequality</li>
-    <li>Tools: R, SPSS, NVivo, reproducible workflows</li>
-    <li>Sample notebooks and slides will be linked inside each repository</li>
+    <li><strong>Courses:</strong> Research Methods · Social Statistics · Social Problems · Social Stratification · Social Psychology · Social Theory · Race and Ethnic Relations · Educational Research and Evaluation</li>
+    <li><strong>Tools:</strong> R · SPSS · NVivo · Reproducible Workflows</li>
+    <li><strong>Resources:</strong> Sample notebooks and slides are available in each course repository</li>
   </ul>
 </section>
 
