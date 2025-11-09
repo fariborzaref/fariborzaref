@@ -44,7 +44,7 @@
     <li><b>Computational Analysis:</b> Text Mining · Network Analysis · Comparative Modeling · Visualization</li>
     <li><b>Qualitative Analysis:</b> Interviews · Focus Groups · Ethnography · Institutional and Discourse Analysis</li>
     <li><b>Quantitative Analysis:</b> Survey Design · Regression Modeling · Experimental and Quasi-Experimental Design · Measurement Theory</li>
-    <li><b>Mixed-Methods Integration:</b> Sequential and Concurrent Designs · Triangulation · Data Convergence and Complementarity</li>
+    <li><b>Mixed-Methods Integration:</b> Sequential and Concurrent Designs · Triangulation · Data Convergence · Complementary Insights</li>
     <li><b>Software:</b> R · Python · Stata · SPSS · NVivo · SQL · LaTeX · Git</li>
   </ul>
 
