@@ -165,6 +165,7 @@
     </li>
   </ul>
 </section>
+<hr/>
 
 <section id="impact">
   <h3>Impact and Application</h3>
