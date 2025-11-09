@@ -147,6 +147,37 @@
     </li>
   </ul>
 </section>
+<section id="research">
+  <h3>Research Specialization</h3>
+  <ul>
+    <li>Computational and Quantitative Sociology</li>
+    <li>Social Inequality and Stratification (race, gender, and class)</li>
+    <li>Migration, Education, and Global Mobility</li>
+    <li>Comparative Sociology and Social Change</li>
+    <li>Health Disparities, Social Inequality, and Public Policy</li>
+    <li>Labor Markets and Technological Transformation</li>
+    <li>Mixed-Methods, Interdisciplinary, and Cross-National Research</li>
+  </ul>
+</section>
+
+<section id="current-research">
+  <h3>Current Research</h3>
+  <ul>
+    <li><strong>Global Gender Gaps in Labor Markets:</strong> Comparative analysis of structural inequality across OECD countries.</li>
+    <li><strong>Migration and Inequality after the Pandemic:</strong> Institutional adaptation and demographic transition.</li>
+  </ul>
+</section>
+
+<section id="philosophy">
+  <h3>Research Philosophy</h3>
+  <p>
+    My research builds analytical frameworks that integrate sociological theory with empirical evidence. 
+    I apply computational and mixed-methods approaches to examine how institutions produce and reproduce inequality, 
+    emphasizing causal clarity, transparency, and methodological rigor.  
+    Each project seeks to connect data with lived realities and to use knowledge as a tool for progress, 
+    and as always, I dedicate my work to humanity for its resilience, its curiosity, and its relentless capacity to evolve.
+  </p>
+</section>
 
 
 <hr/>
