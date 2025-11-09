@@ -153,7 +153,7 @@
     <li><strong>Areas of Specialization:</strong> Computational and Quantitative Sociology · Social Inequality and Stratification (race, gender, and class) · Migration, Education, and Global Mobility · Comparative Sociology and Social Change · Health Disparities, Social Inequality, and Public Policy · Labor Markets and Technological Transformation · Mixed-Methods, Interdisciplinary, and Cross-National Research</li>
     <li><strong>Current Projects:</strong> 
       <ul>
-        <li>Global Gender Gaps in Labor Markets – Comparative analysis of structural inequality across OECD countries.</li>
+        <li>Global Gender Gaps in Labor Markets – Comparative analysis of structural inequality across 174 countries.</li>
         <li>Migration and Inequality after the Pandemic – Institutional adaptation and demographic transition.</li>
       </ul>
     </li>
