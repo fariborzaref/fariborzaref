@@ -40,10 +40,23 @@
 <section id="methods">
   <h3>Methods</h3>
   <ul>
-    <li><b>Modeling</b>: Structural Equation Modeling · Multilevel/Longitudinal Models · Generalized Estimating Equations · Simulation</li>
-    <li><b>Computational Analysis</b>: Text Mining · Network Analysis · Comparative Modeling · Visualization</li>
-    <li><b>Software</b>: R · Python · Stata · SPSS · NVivo · SQL · LaTeX · Git</li>
+    <li><b>Modeling:</b> Structural Equation Modeling · Multilevel/Longitudinal Models · Generalized Estimating Equations · Simulation</li>
+    <li><b>Computational Analysis:</b> Text Mining · Network Analysis · Comparative Modeling · Visualization</li>
+    <li><b>Qualitative Analysis:</b> Interviews · Focus Groups · Ethnography · Institutional and Discourse Analysis</li>
+    <li><b>Quantitative Analysis:</b> Survey Design · Regression Modeling · Experimental and Quasi-Experimental Design · Measurement Theory</li>
+    <li><b>Mixed-Methods Integration:</b> Sequential and Concurrent Designs · Triangulation · Data Convergence and Complementarity</li>
+    <li><b>Software:</b> R · Python · Stata · SPSS · NVivo · SQL · LaTeX · Git</li>
   </ul>
+
+  <details>
+    <summary><b>Technical Toolchain</b></summary>
+    <ul>
+      <li>R: <code>lavaan</code>, <code>geepack</code>, <code>lme4</code>, <code>fixest</code>, <code>panelvar</code>, <code>igraph</code>, <code>quanteda</code>, <code>ggplot2</code></li>
+      <li>Reproducibility: codebooks, pinned package versions, end-to-end replication scripts</li>
+    </ul>
+  </details>
+</section>
+
 
   <details>
     <summary><b>Technical Toolchain</b></summary>
