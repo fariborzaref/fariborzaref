@@ -137,7 +137,7 @@
     <li>
       <strong>Teaching Philosophy:</strong> 
       My approach is deeply influenced by my own academic formation. 
-      Earning two PhDs—in Sociology and Community Development—and two master’s degrees in Sociology and Survey Research in Public Policy shaped a way of teaching that connects empirical evidence with institutional reality. 
+      Earning two PhDs in Sociology and Community Development and two master’s degrees in Sociology and Survey Research in Public Policy shaped a way of teaching that connects empirical evidence with institutional reality. 
       I aim to help students think critically about how structures of education, labor, and policy shape inequality and opportunity in everyday life.
     </li>
   </ul>
