@@ -43,7 +43,7 @@
   <ul>
     <li><b>Modeling:</b> Structural Equation Modeling · Multilevel/Longitudinal Models · Generalized Estimating Equations · Simulation</li>
     <li><b>Computational Analysis:</b> Text Mining · Network Analysis · Comparative Modeling · Visualization</li>
-    <li><b>Qualitative Analysis:</b> Interviews · Focus Groups · Ethnography · Institutional and Discourse Analysis (all in NVivo & R)</li>
+    <li><b>Qualitative Analysis:</b> Interviews · Focus Groups · Ethnography · Institutional and Discourse Analysis (NVivo & R)</li>
     <li><b>Quantitative Analysis:</b> Survey Design · Regression Modeling · Experimental and Quasi-Experimental Design · Measurement Theory</li>
     <li><b>Software:</b> R · Python · Stata · SPSS · NVivo · SQL · LaTeX · Git</li>
   </ul>
