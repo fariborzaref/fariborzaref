@@ -158,8 +158,7 @@
       </ul>
     </li>
     <li><strong>Research Philosophy:</strong> 
-      My work integrates sociological theory with empirical precision, using computational and mixed-methods approaches to understand how institutions create and transform inequality.  
-      I emphasize causal clarity, transparency, and ethical rigor, connecting data with lived realities to turn research into a tool for collective progress.  
+      I study how systems of inequality are built, reproduced, and sometimes dismantled. My work integrates sociological theory with computational and mixed-methods analysis to bridge data and lived experience. Each project is guided by methodological transparency, causal precision, and an ethical commitment to public relevance.  
       <br/><br/>
       <em>As always, the core of my philosophy—and every piece of my work—is dedicated to humanity: for its resilience in adversity, its wisdom to learn, and its unyielding power to shape its destiny.</em>
     </li>
