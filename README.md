@@ -31,7 +31,7 @@
 <section id="profile">
   <h3>Profile</h3>
   <p>
-    I study how inequality takes shape within societies by integrating sociological theory with computational and mixed-methods research. My research traces how institutions, especially education, labor, and policy, interlock to produce or reduce inequality over time.
+    I use computational and mixed-methods sociology to study how inequality evolves over time and across societies.
   </p>
 </section>
 
