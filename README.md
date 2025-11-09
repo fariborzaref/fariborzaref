@@ -145,6 +145,8 @@
       I aim to help students think critically about how structures of education, labor, and policy shape inequality and opportunity in everyday life.
     </li>
   </ul>
+  <hr/>
+
 <section id="research">
   <h3>Research</h3>
   <ul>
