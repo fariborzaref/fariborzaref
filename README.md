@@ -164,6 +164,14 @@
   </ul>
 </section>
 
+<section id="impact">
+  <h3>Impact and Application</h3>
+  <p>
+    My research begins with social reality and returns to it—evidence must lead somewhere measurable.  
+    I aim to translate sociological analysis into policies, technologies, and public understanding that reduce inequality and expand opportunity.  
+    Collaboration with institutions, communities, and interdisciplinary teams remains central to this goal.
+  </p>
+</section>
 
 
 <hr/>
