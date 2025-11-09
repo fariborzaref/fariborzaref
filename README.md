@@ -130,17 +130,19 @@
 
 <section id="teaching">
   <h3>Teaching and Open Materials</h3>
-  <p>
-    My approach to teaching is deeply influenced by my own academic formation. 
-    Earning two PhDs in Sociology and Community Development and two master’s degrees in Sociology and Survey Research in Public Policy shaped a way of teaching that connects empirical evidence with institutional reality. 
-    I aim to help students think critically about how structures of education, labor, and policy shape inequality and opportunity in everyday life.
-  </p>
   <ul>
-    <li><strong>Courses:</strong> Research Methods · Social Statistics · Social Problems · Social Stratification · Social Psychology · Social Theory · Race and Ethnic Relations · Educational Research and Evaluation</li>
+    <li><strong>Courses Taught (Graduate & Undergraduate):</strong> Research Methods · Social Statistics · Social Problems · Social Stratification · Social Psychology · Social Theory · Race and Ethnic Relations · Educational Research and Evaluation</li>
     <li><strong>Tools:</strong> R · SPSS · NVivo · Reproducible Workflows</li>
     <li><strong>Resources:</strong> Sample notebooks and slides are available in each course repository</li>
+    <li>
+      <strong>Teaching Philosophy:</strong> 
+      My approach to teaching is shaped by my own academic journey. 
+      Earning two PhDs—in Sociology and Community Development—and two master’s degrees in Sociology and Survey Research in Public Policy taught me that real learning happens when theory and evidence meet. 
+      In every class, I help students see how data connects with everyday life and how institutions like education, labor, and policy shape both inequality and opportunity.
+    </li>
   </ul>
 </section>
+
 
 <hr/>
   <h3>Education</h3>
