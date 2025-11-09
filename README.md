@@ -131,7 +131,7 @@
 <section id="teaching">
   <h3>Teaching and Open Materials</h3>
   <ul>
-    <li><strong>Courses Taught (Graduate & Undergraduate):</strong> Research Methods · Social Statistics · Social Problems · Social Stratification · Social Psychology · Social Theory · Race and Ethnic Relations · Educational Research and Evaluation</li>
+    <li><strong>Courses Taught (Graduate & Undergraduate):</strong> Research Methods · Social Statistics · Social Problems · Social Stratification · Social Inequality · Social Psychology · Social Theory · Race and Ethnic Relations · Educational Research and Evaluation</li>
     <li><strong>Tools:</strong> R · SPSS · NVivo · Reproducible Workflows</li>
     <li><strong>Resources:</strong> Sample notebooks and slides are available in each course repository</li>
     <li>
