@@ -136,9 +136,9 @@
     <li><strong>Resources:</strong> Sample notebooks and slides are available in each course repository</li>
     <li>
       <strong>Teaching Philosophy:</strong> 
-      My approach to teaching is shaped by my own academic journey. 
-      Earning two PhDs—in Sociology and Community Development—and two master’s degrees in Sociology and Survey Research in Public Policy taught me that real learning happens when theory and evidence meet. 
-      In every class, I help students see how data connects with everyday life and how institutions like education, labor, and policy shape both inequality and opportunity.
+      My approach is deeply influenced by my own academic formation. 
+      Earning two PhDs—in Sociology and Community Development—and two master’s degrees in Sociology and Survey Research in Public Policy shaped a way of teaching that connects empirical evidence with institutional reality. 
+      I aim to help students think critically about how structures of education, labor, and policy shape inequality and opportunity in everyday life.
     </li>
   </ul>
 </section>
