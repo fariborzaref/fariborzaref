@@ -38,7 +38,6 @@
 <hr/>
 
 <section id="methods">
-<section id="methods">
   <h3>Methods</h3>
   <ul>
     <li><b>Modeling:</b> Structural Equation Modeling · Multilevel/Longitudinal Models · Generalized Estimating Equations · Simulation</li>
@@ -146,37 +145,22 @@
       I aim to help students think critically about how structures of education, labor, and policy shape inequality and opportunity in everyday life.
     </li>
   </ul>
-</section>
 <section id="research">
-  <h3>Research Specialization</h3>
+  <h3>Research</h3>
   <ul>
-    <li>Computational and Quantitative Sociology</li>
-    <li>Social Inequality and Stratification (race, gender, and class)</li>
-    <li>Migration, Education, and Global Mobility</li>
-    <li>Comparative Sociology and Social Change</li>
-    <li>Health Disparities, Social Inequality, and Public Policy</li>
-    <li>Labor Markets and Technological Transformation</li>
-    <li>Mixed-Methods, Interdisciplinary, and Cross-National Research</li>
+    <li><strong>Areas of Specialization:</strong> Computational and Quantitative Sociology · Social Inequality and Stratification (race, gender, and class) · Migration, Education, and Global Mobility · Comparative Sociology and Social Change · Health Disparities, Social Inequality, and Public Policy · Labor Markets and Technological Transformation · Mixed-Methods, Interdisciplinary, and Cross-National Research</li>
+    <li><strong>Current Projects:</strong> 
+      <ul>
+        <li>Global Gender Gaps in Labor Markets – Comparative analysis of structural inequality across OECD countries.</li>
+        <li>Migration and Inequality after the Pandemic – Institutional adaptation and demographic transition.</li>
+      </ul>
+    </li>
+    <li><strong>Research Philosophy:</strong> 
+      My work integrates sociological theory with empirical precision, using computational and mixed-methods approaches to understand how institutions create and transform inequality.  
+      I emphasize causal clarity, transparency, and ethical rigor, connecting data with lived realities to turn research into a tool for collective progress.  
+      Every study is grounded in service to humanity — advancing understanding, empathy, and the science of social improvement.
+    </li>
   </ul>
-</section>
-
-<section id="current-research">
-  <h3>Current Research</h3>
-  <ul>
-    <li><strong>Global Gender Gaps in Labor Markets:</strong> Comparative analysis of structural inequality across OECD countries.</li>
-    <li><strong>Migration and Inequality after the Pandemic:</strong> Institutional adaptation and demographic transition.</li>
-  </ul>
-</section>
-
-<section id="philosophy">
-  <h3>Research Philosophy</h3>
-  <p>
-    My research builds analytical frameworks that integrate sociological theory with empirical evidence. 
-    I apply computational and mixed-methods approaches to examine how institutions produce and reproduce inequality, 
-    emphasizing causal clarity, transparency, and methodological rigor.  
-    Each project seeks to connect data with lived realities and to use knowledge as a tool for progress, 
-    and as always, I dedicate my work to humanity for its resilience, its curiosity, and its relentless capacity to evolve.
-  </p>
 </section>
 
 
