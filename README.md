@@ -58,15 +58,6 @@
 </section>
 
 
-  <details>
-    <summary><b>Technical Toolchain</b></summary>
-    <ul>
-      <li>R: <code>lavaan</code>, <code>geepack</code>, <code>lme4</code>, <code>fixest</code>, <code>panelvar</code>, <code>igraph</code>, <code>quanteda</code>, <code>ggplot2</code></li>
-      <li>Reproducibility: codebooks, pinned package versions, end-to-end replication scripts</li>
-    </ul>
-  </details>
-</section>
-
 <hr/>
 
 <section id="repositories">
