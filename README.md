@@ -6,9 +6,6 @@
   United States · 🌐 <a href="https://fariborzaref.com">fariborzaref.com</a> · 📧 <a href="mailto:fariborz.aref@gmail.com">fariborz.aref@gmail.com</a> · 
   <a href="https://orcid.org/0000-0001-6622-1824">ORCID</a>
 
-</div>
-
-
   <br/><br/>
 
   <!-- Quick nav -->
@@ -21,6 +18,7 @@
   <a href="#education">Education</a>
 
 </div>
+
 
 <hr/>
 
