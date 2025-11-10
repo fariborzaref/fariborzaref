@@ -19,7 +19,6 @@
 
 </div>
 
-
 <hr/>
 
 <section id="profile">
@@ -58,9 +57,7 @@
 <section id="repositories">
   <h3>Research Repositories</h3>
 
-  <!-- Research Infrastructure Overview -->
   <div id="research-labs">
-    <!-- Responsive table layout -->
     <table>
       <tr>
         <td>
@@ -104,8 +101,6 @@
     </details>
   </div>
 </section>
-
-
 
 <hr/>
 
