@@ -136,7 +136,7 @@
       <strong>Teaching Philosophy:</strong> 
       My approach is deeply influenced by my own academic formation. 
       Earning two PhDs in Sociology and Community Development and two master’s degrees in Sociology and Survey Research in Public Policy shaped a way of teaching that connects empirical evidence with institutional reality. 
-      I aim to help students think critically about how structures of education, labor, and policy shape inequality and opportunity in everyday life.
+      I aim to help students think critically about how structures of education, labor, and policy shape inequality in everyday life.
     </li>
   </ul>
   <hr/>
@@ -152,7 +152,7 @@
       </ul>
     </li>
     <li><strong>Research Philosophy:</strong> 
-      I study how systems of inequality are built, reproduced, and sometimes dismantled. My work integrates sociological theory with computational and mixed-methods analysis to bridge data and lived experience. Each project is guided by methodological transparency, causal precision, and an ethical commitment to public relevance.  
+      I study how systems of inequality are built, reproduced, and sometimes dismantled. My work integrates sociological theory with computational and mixed-methods analysis to bridge data and lived experience. Each project is guided by methodological transparency and an ethical commitment to public relevance.  
       <br/><br/>
       <em>✦ As always, the core of my philosophy — and every piece of my work — is dedicated to humanity, for its resilience in adversity, its wisdom to learn, and its unyielding power to shape its destiny.</em>
     </li>
