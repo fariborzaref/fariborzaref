@@ -59,7 +59,6 @@
 
 <!-- Research Infrastructure Overview -->
 <section id="research-labs">
-  <h2>Research Laboratories & Methodological Repositories</h2>
 
   <!-- Responsive table layout -->
   <table>
