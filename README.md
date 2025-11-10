@@ -7,7 +7,7 @@
   <a href="https://orcid.org/0000-0001-6622-1824">ORCID</a>
 
   <br/><br/>
-<hr/>
+  <hr/>
   <!-- Quick nav -->
   <a href="#profile">Profile</a> •
   <a href="#methods">Methods</a> •
@@ -39,7 +39,6 @@
     <li><b>Quantitative Analysis:</b> Survey Design · Regression Modeling · Experimental and Quasi-Experimental Design · Measurement Theory</li>
     <li><b>Software:</b> R · Python · Stata · SPSS · NVivo · SQL · LaTeX · Git</li>
   </ul>
-</section>
 
   <details>
     <summary><b>Technical Toolchain</b></summary>
@@ -49,7 +48,6 @@
     </ul>
   </details>
 </section>
-
 
 <hr/>
 
@@ -91,15 +89,16 @@
       </tr>
     </table>
 
- <details>
-  <summary><b>Reproducibility Notes</b></summary>
-  <ul>
-    <li>Each repository includes annotated scripts, datasets, or documentation ensuring methodological transparency.</li>
-    <li>Projects developed primarily in <code>R</code> and <code>Python</code>, with reproducibility managed through environment files and version control.</li>
-    <li>All labs adhere to the <i>QuantitativeSocietyLab</i> structure for documentation, versioning, and academic integrity.</li>
-  </ul>
-</details>
- </section>
+    <details>
+      <summary><b>Reproducibility Notes</b></summary>
+      <ul>
+        <li>Each repository includes annotated scripts, datasets, or documentation ensuring methodological transparency.</li>
+        <li>Projects developed primarily in <code>R</code> and <code>Python</code>, with reproducibility managed through environment files and version control.</li>
+        <li>All labs adhere to the <i>QuantitativeSocietyLab</i> structure for documentation, versioning, and academic integrity.</li>
+      </ul>
+    </details>
+  </div>
+</section>
 
 <hr/>
 
@@ -124,7 +123,6 @@
   </ul>
 </section>
 
-
 <hr/>
 
 <section id="teaching">
@@ -140,7 +138,9 @@
       I aim to help students think critically about how structures of education, labor, and policy shape inequality in everyday life.
     </li>
   </ul>
-  <hr/>
+</section>
+
+<hr/>
 
 <section id="research">
   <h3>Research</h3>
@@ -153,8 +153,8 @@
       </ul>
     </li>
     <li><strong>Research Metrics:</strong> 
-  Citations: 2960 · h-index: 22
-</li>
+      Citations: 2960 · h-index: 22
+    </li>
     <li><strong>Research Philosophy:</strong> 
       I study how systems of inequality are built, reproduced, and sometimes dismantled. My work integrates sociological theory with computational and mixed-methods analysis to bridge data and lived experience. Each project is guided by methodological transparency and an ethical commitment to public relevance.  
       <br/><br/>
@@ -162,41 +162,36 @@
     </li>
   </ul>
 </section>
+
 <hr/>
 
-<section id="impact">
-  <h3>Impact and Application</h3>
+<section id="metrics">
+  <h3>Metrics</h3>
   <p>
-    My research begins with social reality and returns to it—evidence must lead somewhere measurable.  
-    I aim to translate sociological analysis into policies, technologies, and public understanding that reduce inequality and expand opportunity.  
-    Collaboration with institutions, communities, and interdisciplinary teams remains central to this goal.
+    <img alt="GitHub stats for fariborzaref" src="https://github-readme-stats.vercel.app/api?username=fariborzaref&show_icons=true&theme=transparent&hide_border=true" />
+    <br/>
+    <img alt="Top languages for fariborzaref" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fariborzaref&layout=compact&theme=transparent&hide_border=true&v=2" />
+  </p>
+  <p>
+    <img alt="Activity graph for fariborzaref" src="https://github-readme-activity-graph.vercel.app/graph?username=fariborzaref&area=true&hide_border=true" />
+    <br/>
+    <img alt="Profile trophy for fariborzaref" src="https://github-profile-trophy.vercel.app/?username=fariborzaref&no-frame=true&no-bg=true&row=1&column=6" />
   </p>
 </section>
 
-
 <hr/>
+
+<section id="education">
   <h3>Education</h3>
   <p>
     <b>PhD</b> Sociology (OU) | <b>PhD</b> Community Development (UPM) | 
     <b>MA</b> Survey Research in Public Policy (UConn) | <b>MA</b> Sociology (DU)
   </p>
 </section>
-<hr/>
-<section id="metrics">
-  <h3>Metrics</h3>
-  <p>
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=fariborzaref&show_icons=true&theme=transparent&hide_border=true">
-    <br/>
-    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fariborzaref&layout=compact&theme=transparent&hide_border=true&v=2">
-  </p>
-  <p>
-    <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=fariborzaref&area=true&hide_border=true">
-    <br/>
-    <img alt="Profile trophy" src="https://github-profile-trophy.vercel.app/?username=fariborzaref&no-frame=true&no-bg=true&row=1&column=6">
-  </p>
-</section>
 
 <hr/>
 
 <p align="right"><a href="#top">Back to top ↑</a></p>
-<li><i>Rigor is empathy in structure. Each variable represents a life condition, my task is to translate it with precision.</li>
+
+<!-- Final line preserved verbatim, wrapped semantically without altering words -->
+<p><i>Rigor is empathy in structure. Each variable represents a life condition, my task is to translate it with precision.</i></p>
