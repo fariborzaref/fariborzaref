@@ -91,14 +91,14 @@
     </tr>
   </table>
 
-  <details>
-    <summary><b>Reproducibility Notes</b></summary>
-    <ul>
-      <li>All repositories include annotated examples, reproducible code, and saved outputs for verification.</li>
-      <li>R environments are managed with <code>renv</code> and Python workflows include <code>requirements.txt</code> for reproducibility.</li>
-      <li>Each project aligns with the <i>QuantitativeSocietyLab</i> framework to ensure methodological consistency and transparency.</li>
-    </ul>
-  </details>
+<details>
+  <summary><b>Reproducibility Notes</b></summary>
+  <ul>
+    <li>Repositories include annotated scripts, sample datasets, and outputs for methodological transparency.</li>
+    <li>Projects developed primarily in <code>R</code> and <code>Python</code>, with reproducibility managed through session information and environment documentation.</li>
+    <li>Each repository follows the <i>QuantitativeSocietyLab</i> framework for consistent structure, coding standards, and research integrity.</li>
+  </ul>
+</details>
 </section>
 
 <hr/>
