@@ -57,36 +57,36 @@
 <section id="repositories">
   <h3>Research Repositories</h3>
 
-  <!-- Responsive table keeps alignment on GitHub -->
+  <!-- Responsive table layout -->
   <table>
     <tr>
       <td>
-        <b><a href="https://github.com/fariborzaref/R_GEE">R_GEE</a></b><br/>
-        Population-average models for clustered social data
+        <b><a href="https://github.com/fariborzaref/QuantitativeSocietyLab" target="_blank">QuantitativeSocietyLab</a></b><br/>
+        Central hub for advanced quantitative, computational, and mixed-methods models in social and policy research.
       </td>
       <td>
-        <b><a href="https://github.com/fariborzaref/LMM">LMM</a></b><br/>
-        Random-effects models for cross-national trajectories
+        <b><a href="https://github.com/fariborzaref/R_GEE" target="_blank">R_GEE</a></b><br/>
+        Population-average models for clustered and longitudinal social data.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b><a href="https://github.com/fariborzaref/CFA_SEM" target="_blank">CFA_SEM</a></b><br/>
+        Latent variable and structural equation modeling frameworks for social and economic research.
+      </td>
+      <td>
+        <b><a href="https://github.com/fariborzaref/Agent_Based_Models" target="_blank">Agent_Based_Models</a></b><br/>
+        Simulation-based frameworks for modeling inequality, institutional change, and behavioral dynamics.
       </td>
     </tr>
     <tr>
       <td>
-        <b><a href="https://github.com/fariborzaref/CFA_SEM">CFA_SEM</a></b><br/>
-        Latent variable models for social and economic outcomes
+        <b><a href="https://github.com/fariborzaref/Text_Network_Analysis" target="_blank">Text_Network_Analysis</a></b><br/>
+        Text and network analysis of institutional discourse and policy narratives.
       </td>
       <td>
-        <b><a href="https://github.com/fariborzaref/TSM">TSM</a></b><br/>
-        Time-series and panel VAR for comparative policy research
-      </td>
-    </tr>
-    <tr>
-<td>
-  <b><a href="https://github.com/fariborzaref/Text-Network-" target="_blank">Text_Network</a></b><br/>
-  Text and network analysis of institutional discourse
-</td>
-      <td>
-        <b><a href="https://github.com/fariborzaref/Models">Models</a></b><br/>
-        Computational models for policy and inequality research
+        <b><a href="https://github.com/fariborzaref/LMM" target="_blank">LMM</a></b><br/>
+        Random-effects and longitudinal models for comparative welfare and social trajectories.
       </td>
     </tr>
   </table>
@@ -94,8 +94,9 @@
   <details>
     <summary><b>Reproducibility Notes</b></summary>
     <ul>
-      <li>Each repo includes: data links, minimal examples, and saved outputs for verification.</li>
-      <li>Use <code>renv</code> (R) or <code>requirements.txt</code> (Python) where provided to match package versions.</li>
+      <li>All repositories include annotated examples, reproducible code, and saved outputs for verification.</li>
+      <li>R environments are managed with <code>renv</code> and Python workflows include <code>requirements.txt</code> for reproducibility.</li>
+      <li>Each project aligns with the <i>QuantitativeSocietyLab</i> framework to ensure methodological consistency and transparency.</li>
     </ul>
   </details>
 </section>
