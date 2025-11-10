@@ -57,6 +57,10 @@
 <section id="repositories">
   <h3>Research Repositories</h3>
 
+<!-- Research Infrastructure Overview -->
+<section id="research-labs">
+  <h2>Research Laboratories & Methodological Repositories</h2>
+
   <!-- Responsive table layout -->
   <table>
     <tr>
@@ -91,14 +95,14 @@
     </tr>
   </table>
 
-<details>
-  <summary><b>Reproducibility Notes</b></summary>
-  <ul>
-    <li>Repositories include annotated scripts, sample datasets, and outputs for methodological transparency.</li>
-    <li>Projects developed primarily in <code>R</code> and <code>Python</code>, with reproducibility managed through session information and environment documentation.</li>
-    <li>Each repository follows the <i>QuantitativeSocietyLab</i> framework for consistent structure, coding standards, and research integrity.</li>
-  </ul>
-</details>
+  <details>
+    <summary><b>Reproducibility Notes</b></summary>
+    <ul>
+      <li>All repositories include annotated scripts, sample datasets, and replication outputs for methodological transparency.</li>
+      <li>Projects developed primarily in <code>R</code> and <code>Python</code>, with reproducibility managed through documented session environments.</li>
+      <li>Each repository adheres to the <i>QuantitativeSocietyLab</i> structure for coding standards and research integrity.</li>
+    </ul>
+  </details>
 </section>
 
 <hr/>
