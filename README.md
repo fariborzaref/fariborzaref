@@ -56,40 +56,38 @@
 
 <section id="repositories">
   <h3>Research Repositories</h3>
-
 <!-- Research Infrastructure Overview -->
 <section id="research-labs">
-
   <!-- Responsive table layout -->
   <table>
     <tr>
       <td>
         <b><a href="https://github.com/fariborzaref/QuantitativeSocietyLab" target="_blank">QuantitativeSocietyLab</a></b><br/>
-        Central hub for advanced quantitative, computational, and mixed-methods models in social and policy research.
+        Core hub for advanced statistical modeling, GEE frameworks, and computational pipelines in sociology.
       </td>
       <td>
-        <b><a href="https://github.com/fariborzaref/R_GEE" target="_blank">R_GEE</a></b><br/>
-        Population-average models for clustered and longitudinal social data.
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b><a href="https://github.com/fariborzaref/CFA_SEM" target="_blank">CFA_SEM</a></b><br/>
-        Latent variable and structural equation modeling frameworks for social and economic research.
-      </td>
-      <td>
-        <b><a href="https://github.com/fariborzaref/Agent_Based_Models" target="_blank">Agent_Based_Models</a></b><br/>
-        Simulation-based frameworks for modeling inequality, institutional change, and behavioral dynamics.
+        <b><a href="https://github.com/fariborzaref/QualitativeSocietyLab" target="_blank">QualitativeSocietyLab</a></b><br/>
+        Framework for thematic, discourse, and NVivo-based qualitative analyses across institutional contexts.
       </td>
     </tr>
     <tr>
       <td>
-        <b><a href="https://github.com/fariborzaref/Text_Network_Analysis" target="_blank">Text_Network_Analysis</a></b><br/>
-        Text and network analysis of institutional discourse and policy narratives.
+        <b><a href="https://github.com/fariborzaref/MixedMethods_SocietyLab" target="_blank">MixedMethods_SocietyLab</a></b><br/>
+        Integration of survey, ethnographic, and computational methods for complex sociological phenomena.
       </td>
       <td>
-        <b><a href="https://github.com/fariborzaref/LMM" target="_blank">LMM</a></b><br/>
-        Random-effects and longitudinal models for comparative welfare and social trajectories.
+        <b><a href="https://github.com/fariborzaref/ComputationalSociologyHub" target="_blank">ComputationalSociologyHub</a></b><br/>
+        Machine learning, agent-based, and network models connecting social theory with data science.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b><a href="https://github.com/fariborzaref/Teaching_and_Curriculum" target="_blank">Teaching_and_Curriculum</a></b><br/>
+        Repository of syllabi, assignments, and course materials across undergraduate and graduate sociology.
+      </td>
+      <td>
+        <b><a href="https://github.com/fariborzaref/Sociological_Publications" target="_blank">Sociological_Publications</a></b><br/>
+        Archive of peer-reviewed articles, preprints, and replication packages for open scholarly access.
       </td>
     </tr>
   </table>
@@ -97,12 +95,13 @@
   <details>
     <summary><b>Reproducibility Notes</b></summary>
     <ul>
-      <li>All repositories include annotated scripts, sample datasets, and replication outputs for methodological transparency.</li>
-      <li>Projects developed primarily in <code>R</code> and <code>Python</code>, with reproducibility managed through documented session environments.</li>
-      <li>Each repository adheres to the <i>QuantitativeSocietyLab</i> structure for coding standards and research integrity.</li>
+      <li>Each repository includes annotated scripts, datasets, or documentation ensuring methodological transparency.</li>
+      <li>Projects developed primarily in <code>R</code> and <code>Python</code>, with reproducibility managed through environment files and version control.</li>
+      <li>All labs adhere to the <i>QuantitativeSocietyLab</i> structure for documentation, versioning, and academic integrity.</li>
     </ul>
   </details>
 </section>
+
 
 <hr/>
 
