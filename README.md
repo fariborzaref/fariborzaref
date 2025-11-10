@@ -7,7 +7,7 @@
   <a href="https://orcid.org/0000-0001-6622-1824">ORCID</a>
 
   <br/><br/>
-
+<hr/>
   <!-- Quick nav -->
   <a href="#profile">Profile</a> •
   <a href="#methods">Methods</a> •
