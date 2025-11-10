@@ -91,9 +91,14 @@
       </tr>
     </table>
 
-    <details>
- <summary><b>Reproducibility Notes</b></summary> <ul> <li>Repositories include annotated scripts, sample datasets, and outputs for methodological transparency.</li> <li>Projects developed primarily in <code>R</code> and <code>Python</code>, with reproducibility managed through session information and environment documentation.</li> <li>Each repository follows the <i>QuantitativeSocietyLab</i> framework for consistent structure, coding standards, and research integrity.</li> </ul> 
- </details> 
+ <details>
+  <summary><b>Reproducibility Notes</b></summary>
+  <ul>
+    <li>Each repository includes annotated scripts, datasets, or documentation ensuring methodological transparency.</li>
+    <li>Projects developed primarily in <code>R</code> and <code>Python</code>, with reproducibility managed through environment files and version control.</li>
+    <li>All labs adhere to the <i>QuantitativeSocietyLab</i> structure for documentation, versioning, and academic integrity.</li>
+  </ul>
+</details>
  </section>
 
 <hr/>
