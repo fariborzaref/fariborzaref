@@ -197,10 +197,6 @@
   </p>
 </section>
 <p>
-  <strong>Collaboration inquiries:</strong> 
-  <a href="mailto:fariborz.aref@gmail.com">&#102;&#097;&#114;&#105;&#098;&#111;&#114;&#122;&#046;&#097;&#114;&#101;&#102;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</a> · 
-  <a href="https://fariborzaref.com" target="_blank">fariborzaref.com</a>
-</p>
 
 <hr/>
 
