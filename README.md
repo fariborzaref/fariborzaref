@@ -81,10 +81,11 @@
           <b><a href="https://github.com/fariborzaref/Teaching_and_Curriculum" target="_blank">Teaching_and_Curriculum</a></b><br/>
           Repository of syllabi, assignments, and course materials across undergraduate and graduate sociology.
         </td>
-        <td>
-          <b><a href="https://github.com/fariborzaref/Sociological_Publications" target="_blank">Sociological_Publications</a></b><br/>
-          Archive of peer-reviewed articles, preprints, and replication packages for open scholarly access.
-        </td>
+ <td>
+  <b><a href="https://github.com/fariborzaref/SociologyArchive" target="_blank">SociologyArchive</a></b><br/>
+  Living repository of sociological research, theory, and data — integrating quantitative modeling, inequality studies, and public discourse for open scholarly access.
+</td>
+
       </tr>
     </table>
 
