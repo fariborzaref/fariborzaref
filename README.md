@@ -52,52 +52,55 @@
 
 <!-- Research Repositories Section -->
 <section id="repositories">
-  <h3>Research Repositories</h3>
+<h3>Research Repositories</h3>
 
-  <table>
-    <tr>
-      <td>
-        <b><a href="https://github.com/fariborzaref/QuantitativeSocietyLab" target="_blank">QuantitativeSocietyLab</a></b><br/>
-        Core hub for advanced statistical modeling, GEE frameworks, and computational pipelines in sociology.
-      </td>
-      <td>
-        <b><a href="https://github.com/fariborzaref/QualitativeSocietyLab" target="_blank">QualitativeSocietyLab</a></b><br/>
-        Framework for thematic, discourse, and NVivo-based qualitative analyses across institutional contexts.
-      </td>
-    </tr>
+<table>
+  <tr>
+    <td>
+      <b><a href="https://github.com/fariborzaref/QuantitativeSocietyLab" target="_blank">QuantitativeSocietyLab</a></b><br/>
+      Core hub for advanced statistical modeling, GEE frameworks, and computational pipelines in sociology.
+    </td>
+    <td>
+      <b><a href="https://github.com/fariborzaref/QualitativeSocietyLab" target="_blank">QualitativeSocietyLab</a></b><br/>
+      Framework for thematic, discourse, and NVivo-based qualitative analyses across institutional contexts.
+    </td>
+  </tr>
 
-    <tr>
-      <td>
-        <b><a href="https://github.com/fariborzaref/MixedMethods_SocietyLab" target="_blank">MixedMethods_SocietyLab</a></b><br/>
-        Integration of survey, ethnographic, and computational methods for complex sociological phenomena.
-      </td>
-      <td>
-        <b><a href="https://github.com/fariborzaref/ComputationalSociologyHub" target="_blank">ComputationalSociologyHub</a></b><br/>
-        Machine learning, agent-based, and network models connecting social theory with data science.
-      </td>
-    </tr>
+  <tr>
+    <td>
+      <b><a href="https://github.com/fariborzaref/MixedMethods_SocietyLab" target="_blank">MixedMethods_SocietyLab</a></b><br/>
+      Integration of survey, ethnographic, and computational methods for complex sociological phenomena.
+    </td>
+    <td>
+      <b><a href="https://github.com/fariborzaref/ComputationalSociologyHub" target="_blank">ComputationalSociologyHub</a></b><br/>
+      Machine learning, agent-based, and network models connecting social theory with data science.
+    </td>
+  </tr>
 
-    <tr>
-      <td>
-        <b><a href="https://github.com/fariborzaref/Teaching_and_Curriculum" target="_blank">Teaching_and_Curriculum</a></b><br/>
-        Repository of syllabi, assignments, and course materials across undergraduate and graduate sociology.
-      </td>
-      <td>
-        <b><a href="https://github.com/fariborzaref/SociologyArchive" target="_blank">SociologyArchive</a></b><br/>
-        Living repository of sociological research, theory, and data — integrating quantitative modeling,
-        inequality studies, and public discourse for open scholarly access.
-      </td>
-    </tr>
-  </table>
+  <tr>
+    <td>
+      <b><a href="https://github.com/fariborzaref/Teaching_and_Curriculum" target="_blank">Teaching_and_Curriculum</a></b><br/>
+      Repository of syllabi, assignments, and course materials across undergraduate and graduate sociology.
+    </td>
+    <td>
+      <b><a href="https://github.com/fariborzaref/SociologyArchive" target="_blank">SociologyArchive</a></b><br/>
+      Living repository of sociological research, theory, and data — integrating quantitative modeling,
+      inequality studies, and public discourse for open scholarly access.
+    </td>
+  </tr>
+</table>
 
-  <details>
-    <summary><b>Reproducibility Notes</b></summary>
-    <ul>
-      <li>Each repository includes annotated scripts, datasets, and documentation ensuring methodological transparency.</li>
-      <li>Projects are developed primarily in <code>R</code> and <code>Python</code>, with reproducibility managed through environment files and version control.</li>
-      <li>All labs follow the <i>QuantitativeSocietyLab</i> framework for documentation, versioning, and academic integrity.</li>
-    </ul>
-  </details>
+<details>
+  <summary><b>Reproducibility Notes</b></summary>
+
+  <ul>
+    <li>Each repository includes annotated scripts, datasets, and documentation ensuring methodological transparency.</li>
+    <li>Projects are developed primarily in <code>R</code> and <code>Python</code>, with reproducibility managed through environment files and version control.</li>
+    <li>All labs follow the <i>QuantitativeSocietyLab</i> framework for documentation, versioning, and academic integrity.</li>
+  </ul>
+
+</details>
+
 </section>
 
 <hr/>
