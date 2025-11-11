@@ -66,6 +66,7 @@
           Framework for thematic, discourse, and NVivo-based qualitative analyses across institutional contexts.
         </td>
       </tr>
+
       <tr>
         <td>
           <b><a href="https://github.com/fariborzaref/MixedMethods_SocietyLab" target="_blank">MixedMethods_SocietyLab</a></b><br/>
@@ -76,18 +77,21 @@
           Machine learning, agent-based, and network models connecting social theory with data science.
         </td>
       </tr>
+
       <tr>
         <td>
           <b><a href="https://github.com/fariborzaref/Teaching_and_Curriculum" target="_blank">Teaching_and_Curriculum</a></b><br/>
           Repository of syllabi, assignments, and course materials across undergraduate and graduate sociology.
         </td>
- <td>
-  <b><a href="https://github.com/fariborzaref/SociologyArchive" target="_blank">SociologyArchive</a></b><br/>
-  Living repository of sociological research, theory, and data — integrating quantitative modeling, inequality studies, and public discourse for open scholarly access.
-</td>
-
+        <td>
+          <b><a href="https://github.com/fariborzaref/SociologyArchive" target="_blank">SociologyArchive</a></b><br/>
+          Living repository of sociological research, theory, and data — integrating quantitative modeling,
+          inequality studies, and public discourse for open scholarly access.
+        </td>
       </tr>
     </table>
+  </div>
+</section>
 
  <details>
   <summary><b>Reproducibility Notes</b></summary>
