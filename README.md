@@ -89,7 +89,6 @@
       </td>
     </tr>
   </table>
- <details>
   <summary><b>Reproducibility Notes</b></summary>
   <ul>
     <li>Each repository includes annotated scripts, datasets, or documentation ensuring methodological transparency.</li>
