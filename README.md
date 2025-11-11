@@ -40,13 +40,29 @@
   </ul>
 
 <section id="toolchain">
-  <h3>Code Ecosystem</h3>
-  <p>
-    Primary tools: <code>R</code>, <code>Python</code>, and <code>NVivo</code>.<br/>
-    Core R packages: <code>lme4</code> · <code>geepack</code> · <code>lavaan</code> · <code>panelvar</code> · <code>ggplot2</code> · <code>igraph</code>.
-  </p>
-</section>
-
+<details>
+  <summary><b>Technical Toolchain</b></summary>
+  <ul>
+    <li>
+      <b>R:</b>
+      <code>geepack</code> · <code>lme4</code> · <code>lmerTest</code> · <code>lavaan</code> · <code>semTools</code> ·
+      <code>panelvar</code> · <code>plm</code> · <code>pROC</code> · <code>influence.ME</code> ·
+      <code>performance</code> · <code>broom.mixed</code> · <code>data.table</code> ·
+      <code>tidyverse</code> · <code>ggplot2</code> · <code>ggraph</code> · <code>igraph</code> ·
+      <code>quanteda</code> · <code>widyr</code> · <code>psych</code> · <code>checkmate</code> ·
+      <code>patchwork</code> · <code>janitor</code>
+    </li>
+    <li>
+      <b>Reproducibility:</b> codebooks · pinned package versions · structured <code>renv</code> environments · end-to-end replication scripts
+    </li>
+    <li>
+      <b>Visualization:</b> <code>ggplot2</code> · <code>see</code> · <code>scales</code> · <code>semPlot</code>
+    </li>
+    <li>
+      <b>Diagnostics & Model Comparison:</b> <code>performance</code> · <code>fixest</code> · <code>QIC</code> metrics · bootstrap and LOCO procedures
+    </li>
+  </ul>
+</details>
 </section>
 
 <hr/>
