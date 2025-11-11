@@ -57,6 +57,28 @@
   <table>
     <tr>
       <td>
+        <b><a href="https://github.com/fariborzaref/QuantitativeSocietyLab" target="_blank">QuantitativeSocietyLab</a></b><br/>
+        Core hub for advanced statistical modeling, GEE frameworks, and computational pipelines in sociology.
+      </td>
+      <td>
+        <b><a href="https://github.com/fariborzaref/QualitativeSocietyLab" target="_blank">QualitativeSocietyLab</a></b><br/>
+        Framework for thematic, discourse, and NVivo-based qualitative analyses across institutional contexts.
+      </td>
+    </tr>
+
+    <tr>
+      <td>
+        <b><a href="https://github.com/fariborzaref/MixedMethods_SocietyLab" target="_blank">MixedMethods_SocietyLab</a></b><br/>
+        Integration of survey, ethnographic, and computational methods for complex sociological phenomena.
+      </td>
+      <td>
+        <b><a href="https://github.com/fariborzaref/ComputationalSociologyHub" target="_blank">ComputationalSociologyHub</a></b><br/>
+        Machine learning, agent-based, and network models connecting social theory with data science.
+      </td>
+    </tr>
+
+    <tr>
+      <td>
         <b><a href="https://github.com/fariborzaref/Teaching_and_Curriculum" target="_blank">Teaching_and_Curriculum</a></b><br/>
         Repository of syllabi, assignments, and course materials across undergraduate and graduate sociology.
       </td>
@@ -77,8 +99,6 @@
     </ul>
   </details>
 </section>
-
-
 
 <hr/>
 
