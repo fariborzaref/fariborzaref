@@ -39,13 +39,14 @@
     <li><b>Software:</b> R · Python · Stata · SPSS · NVivo · SQL · LaTeX · Git</li>
   </ul>
 
-  <details>
-    <summary><b>Technical Toolchain</b></summary>
-    <ul>
-      <li>R: <code>lavaan</code>, <code>geepack</code>, <code>lme4</code>, <code>fixest</code>, <code>panelvar</code>, <code>igraph</code>, <code>quanteda</code>, <code>ggplot2</code></li>
-      <li>Reproducibility: codebooks, pinned package versions, end-to-end replication scripts</li>
-    </ul>
-  </details>
+<section id="toolchain">
+  <h3>Code Ecosystem</h3>
+  <p>
+    Primary tools: <code>R</code>, <code>Python</code>, and <code>NVivo</code>.<br/>
+    Core R packages: <code>lme4</code> · <code>geepack</code> · <code>lavaan</code> · <code>panelvar</code> · <code>ggplot2</code> · <code>igraph</code>.
+  </p>
+</section>
+
 </section>
 
 <hr/>
