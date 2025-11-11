@@ -78,15 +78,17 @@
       </td>
     </tr>
   </table>
-  <summary><b>Reproducibility Notes</b></summary>
-  <ul>
-    <li>Each repository includes annotated scripts, datasets, or documentation ensuring methodological transparency.</li>
-    <li>Projects developed primarily in <code>R</code> and <code>Python</code>, with reproducibility managed through environment files and version control.</li>
-    <li>All labs adhere to the <i>QuantitativeSocietyLab</i> structure for documentation, versioning, and academic integrity.</li>
-  </ul>
-</details>
-  </div>
+
+  <details>
+    <summary><b>Reproducibility Notes</b></summary>
+    <ul>
+      <li>Each repository includes annotated scripts, datasets, and documentation ensuring methodological transparency.</li>
+      <li>Projects are developed primarily in <code>R</code> and <code>Python</code>, with reproducibility managed through environment files and version control.</li>
+      <li>All labs adhere to the <i>QuantitativeSocietyLab</i> framework for documentation, versioning, and academic integrity.</li>
+    </ul>
+  </details>
 </section>
+
 
 <hr/>
 
