@@ -23,7 +23,7 @@
 <section id="profile">
   <h3>Profile</h3>
   <p>
-    I use computational and mixed-methods sociology to study how inequality evolves over time and across societies.
+    I study how societies evolve by integrating computational sociology, mixed methods, and public policy analysis to reveal the structural forces that shape the trajectories of inequality across places and over time.
   </p>
 </section>
 
