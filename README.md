@@ -173,7 +173,7 @@
     <li><strong>Research Philosophy:</strong>
       I study how systems of inequality are built, reproduced, and sometimes dismantled. My work integrates sociological theory with computational and mixed-methods analysis to bridge data and lived experience. Each project is guided by methodological transparency and an ethical commitment to public relevance.
       <br/><br/>
-      <em>✦ At the core of my philosophy and every piece of my projects is a commitment and a dedication to humanity, for its resilience in adversity, its capacity to learn, and its enduring power to shape its own destiny.</em>
+      <em>✦ At the core of my philosophy and every project I undertake is a commitment to humanity — to its strength, its dignity, and its power to shape its own destiny.</em>
     </li>
   </ul>
 </section>
