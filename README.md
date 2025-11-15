@@ -188,19 +188,7 @@
     Collaboration with institutions, communities, and interdisciplinary teams remains central to this goal.
   </p>
 </section>
-<section id="concept-map">
-  <h3>Conceptual Map of My Research</h3>
-</section>
 
-```mermaid
-flowchart TD
-  A[Sociological Theory] --> B[Computational Models]
-  A --> C[Quantitative Analysis]
-  B --> D[Network & Text Models]
-  C --> E[Multilevel & Longitudinal Models]
-  D --> F[Policy Insights]
-  E --> F
-```
 
 <hr/>
 
@@ -221,6 +209,46 @@ flowchart TD
   </p>
 </section>
 <p>
+<section id="concept-map">
+  <h3>Conceptual Map of My Research</h3>
+  <p>A visual framework of how my work connects theory, computation, inequality, and real-world policy impact.</p>
+</section>
+
+```mermaid
+flowchart LR
+  %% Core Foundations
+  A1((Sociological<br/>Theory)):::core --> A2[Structural Inequality]:::sub
+  A1 --> A3[Institutional Analysis]:::sub
+
+  %% Quantitative Arm
+  A2 --> B1((Quantitative<br/>Models)):::core
+  B1 --> B2[Regression & GLM]:::sub
+  B1 --> B3[Multilevel / Longitudinal]:::sub
+  B1 --> B4[GEE Frameworks]:::sub
+  B1 --> B5[SEM & Measurement]:::sub
+
+  %% Computational Arm
+  A3 --> C1((Computational<br/>Sociology)):::core
+  C1 --> C2[Text Mining & Discourse]:::sub
+  C1 --> C3[Network Structures]:::sub
+  C1 --> C4[Comparative Modeling]:::sub
+  C1 --> C5[Simulation & Agent Systems]:::sub
+
+  %% Integration Point
+  B5 --> D((Synthesis)):::fusion
+  C5 --> D
+
+  %% Outputs
+  D --> E1[Policy Insights]:::impact
+  D --> E2[Social Mobility Research]:::impact
+  D --> E3[Global Inequality Metrics]:::impact
+
+  %% Styles
+  classDef core fill:#1e3a8a,color:#fff,stroke:#0f172a,stroke-width:1.5px;
+  classDef sub fill:#e0e7ff,color:#1e1b4b,stroke:#312e81;
+  classDef fusion fill:#334155,color:#fff,stroke:#0f172a,stroke-width:2px;
+  classDef impact fill:#047857,color:#fff,stroke:#064e3b,stroke-width:1.5px;
+```
 
 <hr/>
 
