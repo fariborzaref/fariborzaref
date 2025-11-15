@@ -200,7 +200,7 @@
   </p>
 </section>
 <hr/>
-<hr/>
+
 
 <section id="education">
   <h3>Education</h3>
@@ -208,6 +208,8 @@
     <b>PhD</b> Sociology (OU) | <b>PhD</b> Community Development (UPM) | <b>MA</b> Survey Research in Public Policy (UConn) | <b>MA</b> Sociology (DU)
   </p>
 </section>
+<hr/>
+
 <p>
 <section id="concept-map">
   <h3>Conceptual Map of My Research</h3>
