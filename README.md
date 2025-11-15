@@ -188,6 +188,19 @@
     Collaboration with institutions, communities, and interdisciplinary teams remains central to this goal.
   </p>
 </section>
+<section id="concept-map">
+  <h3>Conceptual Map of My Research</h3>
+</section>
+
+```mermaid
+flowchart TD
+  A[Sociological Theory] --> B[Computational Models]
+  A --> C[Quantitative Analysis]
+  B --> D[Network & Text Models]
+  C --> E[Multilevel & Longitudinal Models]
+  D --> F[Policy Insights]
+  E --> F
+```
 
 <hr/>
 
