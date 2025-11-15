@@ -180,7 +180,14 @@
 </section>
 
 <hr/>
+<section id="education">
+  <h3>Education</h3>
+  <p>
+    <b>PhD</b> Sociology (OU) | <b>PhD</b> Community Development (UPM) | <b>MA</b> Survey Research in Public Policy (UConn) | <b>MA</b> Sociology (DU)
+  </p>
+</section>
 
+<hr/>
 <section id="metrics">
   <h3>Metrics</h3>
   <p>
@@ -190,14 +197,6 @@
 
 <hr/>
 
-<section id="education">
-  <h3>Education</h3>
-  <p>
-    <b>PhD</b> Sociology (OU) | <b>PhD</b> Community Development (UPM) | <b>MA</b> Survey Research in Public Policy (UConn) | <b>MA</b> Sociology (DU)
-  </p>
-</section>
-
-<hr/>
 
 <section id="concept-map">
   <h3>Conceptual Map of My Research</h3>
