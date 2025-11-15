@@ -264,8 +264,4 @@ flowchart LR
 Paste exactly as-is into your README:  
 - `<section ...>` stays in HTML  
 - Then the ```mermaid block  
-GitHub will render it as a clean concept map.  
-
-This looks like a whole research center compressed into one diagram. Exactly the point.
-::contentReference[oaicite:0]{index=0}
 
