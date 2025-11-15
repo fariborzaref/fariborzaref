@@ -199,16 +199,6 @@
   </p>
 </section>
 
-### Conceptual Map of My Research
-```mermaid
-graph TD
-A[Sociological Theory] --> B[Computational Models]
-A --> C[Quantitative Analysis]
-B --> D[Network & Text Models]
-C --> E[Multilevel & Longitudinal Models]
-D --> F[Policy Insights]
-E --> F
-
 <hr/>
 
 <section id="education">
