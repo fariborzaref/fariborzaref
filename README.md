@@ -211,7 +211,7 @@ flowchart LR
   A1((Sociological<br/>Theory)):::core --> A2[Structural Inequality]:::sub
   A1 --> A3[Institutional Analysis]:::sub
 
-  %% Data Infrastructure
+  %% Data Infrastructure (cross-cutting layer)
   A3 --> DI((Data<br/>Infrastructure)):::core
   DI --> DI2[Data Cleaning & Validation]:::sub
   DI --> DI3[Codebooks & Metadata]:::sub
@@ -219,6 +219,7 @@ flowchart LR
 
   %% Quantitative Branch
   A2 --> Q1((Quantitative<br/>Models)):::core
+  DI --> Q1
   Q1 --> Q2[Regression & GLM]:::sub
   Q1 --> Q3[Multilevel / Longitudinal]:::sub
   Q1 --> Q4[GEE Frameworks]:::sub
@@ -226,6 +227,7 @@ flowchart LR
 
   %% Computational Branch
   A3 --> C1((Computational<br/>Sociology)):::core
+  DI --> C1
   C1 --> C2[Text Mining & Discourse]:::sub
   C1 --> C3[Network Analysis]:::sub
   C1 --> C4[Comparative Modeling]:::sub
@@ -233,6 +235,7 @@ flowchart LR
 
   %% Qualitative Branch
   A3 --> L1((Qualitative<br/>Inquiry)):::core
+  DI --> L1
   L1 --> L2[Interviews & Focus Groups]:::sub
   L1 --> L3[Ethnography & Fieldwork]:::sub
   L1 --> L4[Narrative & Institutional Analysis]:::sub
@@ -261,3 +264,4 @@ flowchart LR
   classDef sub fill:#e0e7ff,color:#1e1b4b,stroke:#312e81;
   classDef fusion fill:#334155,color:#fff,stroke:#0f172a,stroke-width:2px;
   classDef impact fill:#047857,color:#fff,stroke:#064e3b,stroke-width:1.5px;
+
