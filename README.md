@@ -17,6 +17,11 @@
   <a href="#education">Education</a>
 
 </div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Methods-Mixed%20Methods-blue" />
+  <img src="https://img.shields.io/badge/Models-Multilevel%20%7C%20SEM%20%7C%20GEE-darkgreen" />
+  <img src="https://img.shields.io/badge/Focus-Inequality%20%7C%20Comparative%20Sociology-purple" />
+</p>
 
 <hr/>
 
