@@ -194,9 +194,6 @@
 <section id="metrics">
   <h3>Metrics</h3>
   <p>
-    <img alt="GitHub stats" 
-         src="https://github-readme-stats.vercel.app/api?username=fariborzaref&show_icons=true&theme=transparent&hide_border=true">
-    <br/>
     <img alt="Top languages" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=fariborzaref&layout=compact&theme=transparent&hide_border=true&v=2">
   </p>
