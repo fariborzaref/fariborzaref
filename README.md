@@ -198,12 +198,8 @@
     <br/>
     <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fariborzaref&layout=compact&theme=transparent&hide_border=true&v=2">
   </p>
-  <p>
-    <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=fariborzaref&area=true&hide_border=true">
-    <br/>
-    <img alt="Profile trophy" src="https://github-profile-trophy.vercel.app/?username=fariborzaref&no-frame=true&no-bg=true&row=1&column=6">
-  </p>
 </section>
+
 
 <hr/>
 
