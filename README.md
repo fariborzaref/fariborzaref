@@ -22,9 +22,15 @@
 
 <section id="profile">
   <h3>Profile</h3>
-  <p>
-    I study how societies evolve by integrating computational sociology, mixed methods, and public policy analysis to reveal the structural forces that shape the trajectories of inequality across places and over time.
-  </p>
+ <p>
+  I study how societies evolve by integrating computational sociology, mixed methods, and public policy analysis to reveal the structural forces that shape inequality across places and over time.
+  <br/><br/>
+  <i>
+  My work builds cross-method bridges between computational modeling, mixed-methods inquiry, and policy-focused sociological analysis. 
+  I examine how macro-structures reproduce inequality through measurable patterns and institutional mechanisms.
+  </i>
+</p>
+
 </section>
 
 <hr/>
