@@ -198,10 +198,6 @@
 
 <hr/>
 
-
-
-- `<section ...>` stays in HTML  
-- Then the ```mermaid block  
 <section id="concept-map">
   <h3>Conceptual Map of My Research</h3>
   <p>A unified model connecting theory, quantitative rigor, qualitative depth, computational frameworks, data infrastructure, and real-world sociopolicy impact.</p>
