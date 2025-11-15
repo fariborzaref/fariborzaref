@@ -198,6 +198,10 @@
 
 <hr/>
 
+
+
+- `<section ...>` stays in HTML  
+- Then the ```mermaid block  
 <section id="concept-map">
   <h3>Conceptual Map of My Research</h3>
   <p>A unified model connecting theory, quantitative rigor, qualitative depth, computational frameworks, data infrastructure, and real-world sociopolicy impact.</p>
@@ -260,8 +264,3 @@ flowchart LR
   classDef sub fill:#e0e7ff,color:#1e1b4b,stroke:#312e81;
   classDef fusion fill:#334155,color:#fff,stroke:#0f172a,stroke-width:2px;
   classDef impact fill:#047857,color:#fff,stroke:#064e3b,stroke-width:1.5px;
-
-Paste exactly as-is into your README:  
-- `<section ...>` stays in HTML  
-- Then the ```mermaid block  
-
