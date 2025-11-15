@@ -199,14 +199,10 @@
 <section id="concept-map">
   <h3>Conceptual Map of My Research</h3>
   <p>A unified model connecting theory, quantitative rigor, qualitative depth, computational frameworks, data infrastructure, and real-world sociopolicy impact.</p>
-</section>
+
 ```mermaid
 flowchart LR
-  ...
-```
 
-
-  %% Core Foundations
   A1((Sociological<br/>Theory)):::core --> A2[Structural Inequality]:::sub
   A1 --> A3[Institutional Analysis]:::sub
 
