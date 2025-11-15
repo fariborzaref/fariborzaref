@@ -261,3 +261,11 @@ flowchart LR
   classDef fusion fill:#334155,color:#fff,stroke:#0f172a,stroke-width:2px;
   classDef impact fill:#047857,color:#fff,stroke:#064e3b,stroke-width:1.5px;
 
+Paste exactly as-is into your README:  
+- `<section ...>` stays in HTML  
+- Then the ```mermaid block  
+GitHub will render it as a clean concept map.  
+
+This looks like a whole research center compressed into one diagram. Exactly the point.
+::contentReference[oaicite:0]{index=0}
+
