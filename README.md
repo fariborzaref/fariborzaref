@@ -189,6 +189,14 @@
 
 <hr/>
 
+<section id="education">
+  <h3>Education</h3>
+  <p>
+    <b>PhD</b> Sociology (OU) | <b>PhD</b> Community Development (UPM) | <b>MA</b> Survey Research in Public Policy (UConn) | <b>MA</b> Sociology (DU)
+  </p>
+</section>
+
+<hr/>
 
 <section id="concept-map">
   <h3>Conceptual Map of My Research</h3>
@@ -239,12 +247,4 @@ flowchart LR
   classDef sub fill:#e0e7ff,color:#1e1b4b,stroke:#312e81;
   classDef fusion fill:#334155,color:#fff,stroke:#0f172a,stroke-width:2px;
   classDef impact fill:#047857,color:#fff,stroke:#064e3b,stroke-width:1.5px;
-<section id="education">
-  <h3>Education</h3>
-  <p>
-    <b>PhD</b> Sociology (OU) | <b>PhD</b> Community Development (UPM) | <b>MA</b> Survey Research in Public Policy (UConn) | <b>MA</b> Sociology (DU)
-  </p>
-</section>
-
-<hr/>
 
