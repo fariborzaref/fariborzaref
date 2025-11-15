@@ -183,9 +183,7 @@
 <section id="impact">
   <h3>Impact and Application</h3>
   <p>
-    My research begins with social reality and returns to it—evidence must lead somewhere measurable.
-    I aim to translate sociological analysis into policies, technologies, and public understanding that reduce inequality and expand opportunity.
-    Collaboration with institutions, communities, and interdisciplinary teams remains central to this goal.
+ My research framework links empirical data with institutional decision-making. I develop quantitative, computational, and qualitative outputs that can inform targeted policy adjustments, program design, and resource allocation. All projects are structured to ensure the findings are interpretable, transferable, and usable by agencies, organizations, and interdisciplinary teams..
   </p>
 </section>
 
