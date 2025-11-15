@@ -200,7 +200,7 @@
 
 <section id="concept-map">
   <h3>Conceptual Map of My Research</h3>
-  <p>A unified model connecting theory, quantitative rigor, qualitative depth, computational frameworks, and real-world sociopolicy impact.</p>
+  <p>A unified model connecting theory, quantitative rigor, qualitative depth, computational frameworks, data infrastructure, and real-world sociopolicy impact.</p>
 </section>
 
 ```mermaid
@@ -209,6 +209,12 @@ flowchart LR
   %% Core Foundations
   A1((Sociological<br/>Theory)):::core --> A2[Structural Inequality]:::sub
   A1 --> A3[Institutional Analysis]:::sub
+
+  %% Data Infrastructure
+  A3 --> DI((Data<br/>Infrastructure)):::core
+  DI --> DI2[Data Cleaning & Validation]:::sub
+  DI --> DI3[Codebooks & Metadata]:::sub
+  DI --> DI4[Versioned Pipelines]:::sub
 
   %% Quantitative Branch
   A2 --> Q1((Quantitative<br/>Models)):::core
@@ -224,7 +230,7 @@ flowchart LR
   C1 --> C4[Comparative Modeling]:::sub
   C1 --> C5[Simulation / Agent Systems]:::sub
 
-  %% Qualitative Branch (NEW)
+  %% Qualitative Branch
   A3 --> L1((Qualitative<br/>Inquiry)):::core
   L1 --> L2[Interviews & Focus Groups]:::sub
   L1 --> L3[Ethnography & Fieldwork]:::sub
@@ -235,12 +241,19 @@ flowchart LR
   Q5 --> S((Synthesis)):::fusion
   C5 --> S
   L4 --> S
+  DI4 --> S
+
+  %% Policy Translation Layer
+  S --> PT((Policy<br/>Translation)):::fusion
+  PT --> PT1[Scenario Modeling]:::sub
+  PT --> PT2[Equity-Based Recommendations]:::sub
+  PT --> PT3[Program Evaluation Frameworks]:::sub
 
   %% Outputs
-  S --> O1[Policy Insights]:::impact
-  S --> O2[Mobility & Inequality Metrics]:::impact
-  S --> O3[Cross-National Comparative Findings]:::impact
-  S --> O4[Community-Level Change Models]:::impact
+  PT --> O1[Policy Insights]:::impact
+  PT --> O2[Mobility & Inequality Metrics]:::impact
+  PT --> O3[Cross-National Comparative Findings]:::impact
+  PT --> O4[Community-Level Change Models]:::impact
 
   %% Styles
   classDef core fill:#1e3a8a,color:#fff,stroke:#0f172a,stroke-width:1.5px;
