@@ -201,6 +201,7 @@
   <p>A unified model connecting theory, quantitative rigor, qualitative depth, computational frameworks, data infrastructure, and real-world sociopolicy impact.</p>
 
 ```mermaid
+   …diagram…
 flowchart LR
 
   A1((Sociological<br/>Theory)):::core --> A2[Structural Inequality]:::sub
