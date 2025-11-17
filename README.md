@@ -159,7 +159,6 @@
         <li>Migration and Inequality after the Pandemic – Institutional adaptation and demographic transition.</li>
       </ul>
     </li>
-    <li><strong>Research Metrics:</strong> Citations: 2970 · h-index: 22</li>
     <li><strong>Research Philosophy:</strong>
       I study how systems of inequality are built, reproduced, and sometimes dismantled. My work integrates sociological theory with computational and mixed-methods analysis to bridge data and lived experience. Each project is guided by methodological transparency and an ethical commitment to public relevance.
       <br/><br/>
