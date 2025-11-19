@@ -1,0 +1,170 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  line-height: 1.6;
+  color: #111827;
+  background-color: #ffffff; /* was #f3f4f6 – now full white */
+}
+
+/* Header and navigation */
+
+.top-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: #111827;
+  color: #f9fafb;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.brand h1 {
+  font-size: 1.4rem;
+  margin: 0;
+}
+
+.tagline {
+  margin: 0.15rem 0 0;
+  font-size: 0.9rem;
+  color: #d1d5db;
+}
+
+.nav-list {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-list a {
+  text-decoration: none;
+  font-size: 0.95rem;
+  color: #e5e7eb;
+  padding: 0.3rem 0.5rem;
+  border-radius: 999px;
+}
+
+.nav-list a:hover {
+  background-color: #1f2937;
+  color: #ffffff;
+}
+
+/* Layout */
+
+.page {
+  width: 100%;              /* full width */
+  margin: 2rem 0;           /* no centering block */
+  padding: 0 2rem 3rem;     /* left/right padding like a normal page */
+}
+
+.page-header {
+  margin-bottom: 1.5rem;
+}
+
+.page-header h2 {
+  margin: 0 0 0.5rem;
+  font-size: 1.6rem;
+}
+
+.page-header p {
+  margin: 0;
+  color: #4b5563;
+}
+
+.section-box {
+  background-color: #ffffff;
+  border-radius: 0.75rem;
+  border: 1px solid #e5e7eb;
+  padding: 1.75rem 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.lead {
+  font-size: 1.05rem;
+  margin-bottom: 0.75rem;
+}
+
+/* Grid and cards */
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 1rem;
+  margin-top: 0.75rem;
+}
+
+.card {
+  border-radius: 0.75rem;
+  border: 1px solid #e5e7eb;
+  background-color: #f9fafb;
+  padding: 1rem;
+}
+
+.card h3 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-size: 1.1rem;
+}
+
+/* Lists */
+
+.list {
+  padding-left: 1.1rem;
+}
+
+.list li {
+  margin-bottom: 0.55rem;
+}
+
+.note {
+  margin-top: 0.75rem;
+  font-size: 0.9rem;
+  color: #6b7280;
+}
+
+/* Simple contact layout */
+
+.contact-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+}
+
+.contact-box {
+  border-radius: 0.75rem;
+  border: 1px solid #e5e7eb;
+  background-color: #ffffff;
+  padding: 1.25rem;
+}
+
+/* Footer */
+
+.footer {
+  background-color: #111827;
+  color: #f9fafb;
+  padding: 1.2rem;
+  text-align: center;
+  font-size: 0.9rem;
+  margin-top: 2rem;
+}
+
+/* Responsive */
+
+@media (max-width: 720px) {
+  .top-bar {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.75rem;
+  }
+
+  .page {
+    margin-top: 1.5rem;
+  }
+}
