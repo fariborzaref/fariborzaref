@@ -3,8 +3,6 @@
   <h1 id="top">Fariborz Aref</h1>
   <h3>Sociologist · Computational & Mixed-Methods Research</h3>
 
-  United States · 📧 <a href="mailto:fariborz.aref@gmail.com">fariborz.aref@gmail.com</a> · <a href="https://orcid.org/0000-0001-6622-1824">ORCID</a>
-
   <br/><br/>
   <hr/>
   <!-- Quick nav -->
