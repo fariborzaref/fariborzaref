@@ -3,7 +3,9 @@
   <h1 id="top">Fariborz Aref</h1>
   <h3>Sociologist · Computational & Mixed-Methods Research</h3>
 
-  United States  · <a href="https://orcid.org/0000-0001-6622-1824">ORCID</a>
+ United States · 
+<a href="https://fariborzaref.com">Website</a> · 
+<a href="https://orcid.org/0000-0001-6622-1824">ORCID</a>
 
   <br/><br/>
   <hr/>
