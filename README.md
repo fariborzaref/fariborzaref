@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1 id="top">Fariborz Aref</h1>
-  <h3>Sociologist · Computational & Mixed-Methods Research</h3>
+  <h3>Assistant Professor of Sociology · Computational & Mixed-Methods Research</h3>
 
  United States · 
 <a href="https://fariborzaref.com">Website</a> · 
