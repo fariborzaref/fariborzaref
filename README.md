@@ -4,7 +4,6 @@
 
 ### Sociologist · Research Methodologist · Computational & Mixed-Methods Scholar
 
-*The world is not random. It is structured — and so is inequality.*
 
 United States · [Website](https://fariborzaref.com) · [ORCID](https://orcid.org/0000-0001-6622-1824)
 
