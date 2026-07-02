@@ -4,17 +4,13 @@
 
 ### Sociologist · Research Methodologist · Computational & Mixed-Methods Scholar
 
+*The world is not random. It is structured — and so is inequality.*
+
 United States · [Website](https://fariborzaref.com) · [ORCID](https://orcid.org/0000-0001-6622-1824)
 
 <br/>
 
-[Profile](#profile) · 
-[Research](#research) · 
-[Methods](#methods) · 
-[Repositories](#research-repositories) · 
-[Publications](#selected-publications) · 
-[Teaching](#teaching) · 
-[Open Science](#open-science-and-reproducibility)
+[Profile](#profile) · [Research](#research) · [Methods](#methods) · [Repositories](#research-repositories) · [Publications](#selected-publications) · [Teaching](#teaching) · [Open Science](#open-science-and-reproducibility)
 
 </div>
 
@@ -22,81 +18,48 @@ United States · [Website](https://fariborzaref.com) · [ORCID](https://orcid.or
 
 ## Profile
 
-I study how social structures shape inequality, mobility, and institutional change across time and place. My work integrates sociological theory, computational analysis, quantitative modeling, and qualitative inquiry to examine how evidence becomes explanation.
+I study how social structure produces inequality, mobility, and institutional change across time and place — and how evidence becomes explanation.
 
-My research is grounded in a simple principle: good social science should make complex social realities more visible, more explainable, and more accountable.
+My work joins two traditions that rarely meet: the **macro structure** of inequality (Marx, Weber, Durkheim, and the comparative sociology that followed) and the **community systems** that absorb it. I move between them, combining sociological theory with computational, quantitative, and qualitative analysis.
+
+One principle runs through all of it: good social science should make complex realities more visible, more explainable, and more accountable.
 
 ---
 
 ## Research
 
-My work focuses on the relationship between **structure, evidence, and explanation** in social inquiry.
+My work centers on the relationship between **structure, evidence, and explanation** in social inquiry.
 
-**Core areas**
+**Core areas** — social inequality and stratification · comparative and cross-national sociology · migration, education, and global mobility · labor markets and technological change · health disparities and public policy · computational and mixed-methods sociology · research design and measurement.
 
-- Social inequality and stratification  
-- Comparative and cross-national sociology  
-- Migration, education, and global mobility  
-- Labor markets and technological transformation  
-- Health disparities and public policy  
-- Computational sociology and mixed-methods research  
-- Research design, measurement, and explanation  
+**Current questions**
 
-**Current research interests**
-
-- Gendered labor market inequality across welfare regimes  
-- Institutional responses to crises, including recession and pandemic disruption  
-- Migration, inequality, and demographic transition  
-- Computational and mixed-methods approaches to social evidence  
-- Research design in the age of artificial intelligence  
+- Gendered labor-market inequality across welfare regimes
+- Institutional responses to crisis — recession and pandemic disruption
+- Migration, inequality, and demographic transition
+- Computational and mixed-methods approaches to social evidence
+- Research design in the age of artificial intelligence
 
 ---
 
 ## Methods
 
-I use methods as tools of explanation, not decoration. Because apparently society decided to become complicated and then left researchers to clean up the mess.
+I treat methods as instruments of explanation, not decoration — the discipline that turns observation into defensible claims.
 
-**Quantitative and computational methods**
+**Quantitative & computational** — Structural Equation Modeling · multilevel and longitudinal models · Generalized Estimating Equations · regression and GLM · text mining and discourse analysis · network analysis · simulation and agent-based models · reproducible visualization pipelines.
 
-- Structural Equation Modeling  
-- Multilevel and longitudinal modeling  
-- Generalized Estimating Equations  
-- Regression, GLM, and comparative modeling  
-- Text mining and discourse analysis  
-- Network analysis  
-- Simulation and agent-based approaches  
-- Data visualization and reproducible pipelines  
+**Qualitative & mixed methods** — interviews and focus groups · ethnography and fieldwork · institutional and discourse analysis · narrative analysis · NVivo coding frameworks · mixed-methods integration and triangulation.
 
-**Qualitative and mixed-methods approaches**
-
-- Interviews and focus groups  
-- Ethnography and fieldwork  
-- Institutional and discourse analysis  
-- Narrative analysis  
-- NVivo-supported coding frameworks  
-- Mixed-methods integration and triangulation  
-
-**Software and tools**
-
-`R` · `Python` · `Stata` · `SPSS` · `NVivo` · `SQL` · `LaTeX` · `Git`
+**Software** — `R` · `Python` · `Stata` · `SPSS` · `NVivo` · `SQL` · `LaTeX` · `Git`
 
 <details>
 <summary><b>Technical toolchain</b></summary>
 
 <br/>
 
-**R packages and workflows**
+**R workflows** — `tidyverse` · `data.table` · `ggplot2` · `lme4` · `lmerTest` · `lavaan` · `semTools` · `geepack` · `plm` · `fixest` · `performance` · `broom.mixed` · `quanteda` · `igraph` · `ggraph` · `psych` · `janitor` · `patchwork`
 
-`tidyverse` · `data.table` · `ggplot2` · `lme4` · `lmerTest` · `lavaan` · `semTools` · `geepack` · `plm` · `fixest` · `performance` · `broom.mixed` · `quanteda` · `igraph` · `ggraph` · `psych` · `janitor` · `patchwork`
-
-**Reproducibility**
-
-- Structured project folders  
-- Codebooks and metadata  
-- Version-controlled scripts  
-- Replication files  
-- Documented analytic decisions  
-- Transparent model diagnostics  
+**Reproducibility** — structured project folders · codebooks and metadata · version-controlled scripts · replication files · documented analytic decisions · transparent diagnostics.
 
 </details>
 
@@ -106,71 +69,40 @@ I use methods as tools of explanation, not decoration. Because apparently societ
 
 | Repository | Focus |
 |---|---|
-| [QuantitativeSocietyLab](https://github.com/fariborzaref/QuantitativeSocietyLab) | Advanced statistical modeling, GEE frameworks, longitudinal models, and quantitative sociology pipelines |
-| [QualitativeSocietyLab](https://github.com/fariborzaref/QualitativeSocietyLab) | Thematic, discourse, institutional, and NVivo-supported qualitative research |
+| [QuantitativeSocietyLab](https://github.com/fariborzaref/QuantitativeSocietyLab) | Statistical modeling, GEE frameworks, longitudinal models, quantitative pipelines |
+| [QualitativeSocietyLab](https://github.com/fariborzaref/QualitativeSocietyLab) | Thematic, discourse, institutional, and NVivo-supported research |
 | [MixedMethods_SocietyLab](https://github.com/fariborzaref/MixedMethods_SocietyLab) | Integration of survey, interview, ethnographic, and computational evidence |
-| [ComputationalSociologyHub](https://github.com/fariborzaref/ComputationalSociologyHub) | Text mining, network analysis, simulation, machine learning, and computational social science |
-| [Teaching_and_Curriculum](https://github.com/fariborzaref/Teaching_and_Curriculum) | Syllabi, assignments, research methods materials, statistics resources, and applied teaching tools |
-| [SociologyArchive](https://github.com/fariborzaref/SociologyArchive) | Open archive of sociological theory, empirical research, inequality studies, and public-facing scholarship |
+| [ComputationalSociologyHub](https://github.com/fariborzaref/ComputationalSociologyHub) | Text mining, networks, simulation, machine learning, computational social science |
+| [Teaching_and_Curriculum](https://github.com/fariborzaref/Teaching_and_Curriculum) | Syllabi, assignments, methods materials, statistics resources |
+| [SociologyArchive](https://github.com/fariborzaref/SociologyArchive) | Open archive of theory, empirical research, and public scholarship |
 
 ---
 
 ## Selected Publications
 
-- **Comparative Sociology**  
-  *From Recession to Pandemic: Evolving Inequalities in OECD Countries through a Two-Decade Analysis of Socio-Economic Impacts*  
-  DOI: [10.1163/15691330-bja10103](https://doi.org/10.1163/15691330-bja10103)
+- *From Recession to Pandemic: Evolving Inequalities in OECD Countries through a Two-Decade Analysis of Socio-Economic Impacts.* **Comparative Sociology**, 2024. [DOI](https://doi.org/10.1163/15691330-bja10103)
+- *Analyzing Inequalities: A Multifaceted Perspective of OECD Welfare Regimes during the Great Recession and the Pandemic.* **International Review of Economics**, 2024. [DOI](https://doi.org/10.1007/s12232-024-00448-9)
+- *Research Productivity in Rehabilitation, Disability, and Allied Health Programs.* **Rehabilitation Research, Policy, and Education**, 2017. [DOI](https://doi.org/10.1891/2168-6653.31.3.194)
 
-- **International Review of Economics**  
-  *Analyzing Inequalities: A Multifaceted Perspective of OECD Welfare Regimes during the Great Recession and the Pandemic*  
-  DOI: [10.1007/s12232-024-00448-9](https://doi.org/10.1007/s12232-024-00448-9)
-
-- **Rehabilitation Research, Policy, and Education**  
-  *Research Productivity in Rehabilitation, Disability, and Allied Health Programs*  
-  DOI: [10.1891/2168-6653.31.3.194](https://doi.org/10.1891/2168-6653.31.3.194)
+Full record on [ORCID](https://orcid.org/0000-0001-6622-1824).
 
 ---
 
 ## Teaching
 
-I teach students how to move from question to evidence, from evidence to analysis, and from analysis to explanation.
+I teach students to move from question to evidence, from evidence to analysis, and from analysis to explanation — with methodological judgment at the center.
 
-**Courses taught**
+**Courses** — Research Methods · Social Statistics · Social Problems · Social Stratification · Social Inequality · Social Psychology · Social Theory · Race and Ethnic Relations · Educational Research and Evaluation.
 
-- Research Methods  
-- Social Statistics  
-- Social Problems  
-- Social Stratification  
-- Social Inequality  
-- Social Psychology  
-- Social Theory  
-- Race and Ethnic Relations  
-- Educational Research and Evaluation  
-
-**Teaching tools**
-
-`R` · `SPSS` · `NVivo` · reproducible workflows · applied research design · data interpretation
-
-My teaching emphasizes methodological judgment, critical thinking, and the disciplined use of evidence. In the age of artificial intelligence, I focus especially on helping students distinguish between generated answers and defensible reasoning. Humanity has, tragically, made this necessary.
+In an age of generated answers, I focus on the distinction that still matters most: between an answer and a *defensible* one.
 
 ---
 
-## Open Science and Reproducibility
+## Open Science & Reproducibility
 
-My repositories are designed around transparent and reusable research workflows.
+My repositories are built around transparent, reusable workflows — clear questions, documented data decisions, codebooks and metadata, version-controlled scripts, replicable models, and interpretable use of computational tools.
 
-**Core commitments**
-
-- Clear research questions  
-- Documented data decisions  
-- Codebooks and metadata  
-- Version-controlled scripts  
-- Replicable statistical models  
-- Transparent qualitative coding logic  
-- Ethical and interpretable use of computational tools  
-- Public-facing research when appropriate  
-
-The goal is not only to produce results, but to make the path from evidence to explanation visible.
+The aim is not only to produce results, but to make the path from evidence to explanation visible.
 
 ---
 
@@ -178,7 +110,6 @@ The goal is not only to produce results, but to make the path from evidence to e
 
 ```mermaid
 flowchart LR
-
     A[Social Reality] --> B[Observation]
     B --> C[Research Questions]
     C --> D[Research Design]
@@ -193,11 +124,11 @@ flowchart LR
     D --> M2[Qualitative Inquiry]
     D --> M3[Computational Analysis]
     D --> M4[Mixed Methods]
-
     M1 --> E
     M2 --> E
     M3 --> E
     M4 --> E
 
-    G --> P[Policy and Public Relevance]
+    G --> P[Policy & Public Relevance]
+```
 
