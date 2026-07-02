@@ -5,7 +5,7 @@
 ### Sociologist · Research Methodologist · Computational & Mixed-Methods Scholar
 
 
-United States · [Website](https://fariborzaref.com) · [ORCID](https://orcid.org/0000-0001-6622-1824)
+United States · [Website](https://fariborzaref.com) · [Github](https://fariborzaref.github.io/)
 
 <br/>
 
