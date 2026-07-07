@@ -70,10 +70,7 @@ I treat methods as instruments of explanation, not decoration — the discipline
 |---|---|
 | [QuantitativeSocietyLab](https://github.com/fariborzaref/QuantitativeSocietyLab) | Statistical modeling, GEE frameworks, longitudinal models, quantitative pipelines |
 | [QualitativeSocietyLab](https://github.com/fariborzaref/QualitativeSocietyLab) | Thematic, discourse, institutional, and NVivo-supported research |
-| [MixedMethods_SocietyLab](https://github.com/fariborzaref/MixedMethods_SocietyLab) | Integration of survey, interview, ethnographic, and computational evidence |
 | [ComputationalSociologyHub](https://github.com/fariborzaref/ComputationalSociologyHub) | Text mining, networks, simulation, machine learning, computational social science |
-| [Teaching_and_Curriculum](https://github.com/fariborzaref/Teaching_and_Curriculum) | Syllabi, assignments, methods materials, statistics resources |
-| [SociologyArchive](https://github.com/fariborzaref/SociologyArchive) | Open archive of theory, empirical research, and public scholarship |
 
 ---
 
