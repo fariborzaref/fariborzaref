@@ -1,11 +1,8 @@
 <div align="center">
 
 # Fariborz Aref
-
-United States · [Website](https://fariborzaref.com) · [Github](https://fariborzaref.github.io/)
-
+ [Website](https://fariborzaref.com) · [Github](https://fariborzaref.github.io/)
 <br/>
-
 [Profile](#profile) · [Research](#research) · [Methods](#methods) · [Repositories](#research-repositories) · [Publications](#selected-publications) · [Teaching](#teaching) · [Open Science](#open-science-and-reproducibility)
 
 </div>
