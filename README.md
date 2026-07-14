@@ -1,5 +1,4 @@
 <div align="center">
-
 # Fariborz Aref
  [Website](https://fariborzaref.com) · [Github](https://fariborzaref.github.io/)
 <br/>
