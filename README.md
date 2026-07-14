@@ -2,9 +2,6 @@
 
 # Fariborz Aref
 
-### Sociologist · Research Methodologist · Computational & Mixed-Methods Scholar
-
-
 United States · [Website](https://fariborzaref.com) · [Github](https://fariborzaref.github.io/)
 
 <br/>
