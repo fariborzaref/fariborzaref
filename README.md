@@ -1,9 +1,11 @@
 <div align="center">
- 
+
 # Fariborz Aref
- [Website](https://fariborzaref.com) · [Github](https://fariborzaref.github.io/)
-<br/>
-[Profile](#profile) · [Research](#research) · [Methods](#methods) · [Repositories](#research-repositories) · [Publications](#selected-publications) · [Teaching](#teaching) · [Open Science](#open-science-and-reproducibility)
+
+[Website](https://fariborzaref.com) · [GitHub](https://fariborzaref.github.io/)
+
+[Profile](#profile) · [Research](#research) · [Methods](#methods) · [Repositories](#research-repositories)<br>
+[Publications](#selected-publications) · [Teaching](#teaching) · [Open Science](#open-science-and-reproducibility)
 
 </div>
 
@@ -11,11 +13,16 @@
 
 ## Profile
 
-I study how social structure produces inequality, mobility, and institutional change across time and place — and how evidence becomes explanation.
+I study how social structure produces inequality, mobility, and institutional change across time and place—and how evidence becomes explanation.
 
-My work joins two traditions that rarely meet: the **macro structure** of inequality (Marx, Weber, Durkheim, and the comparative sociology that followed) and the **community systems** that absorb it. I move between them, combining sociological theory with computational, quantitative, and qualitative analysis.
+My work brings together two traditions that rarely meet:
 
-One principle runs through all of it: good social science should make complex realities more visible, more explainable, and more accountable.
+- The **macro structure** of inequality: Marx, Weber, Durkheim, and the comparative sociology that followed.
+- The **community systems** that absorb it.
+
+I move between them, combining sociological theory with computational, quantitative, and qualitative analysis.
+
+> One principle runs through all of it: good social science should make complex realities more visible, more explainable, and more accountable.
 
 ---
 
