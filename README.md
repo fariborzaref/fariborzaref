@@ -2,7 +2,7 @@
 
 # Fariborz Aref
 
-[Website](https://fariborzaref.com) · [GitHub](https://fariborzaref.github.io/)
+[Website](https://fariborzaref.com) · [Labs](https://fariborzaref.github.io/)
 
 [Profile](#profile) · [Research](#research) · [Methods](#methods) · [Repositories](#research-repositories)<br>
 [Publications](#selected-publications) · [Teaching](#teaching) · [Open Science](#open-science-and-reproducibility)
